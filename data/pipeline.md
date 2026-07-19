@@ -1,0 +1,131 @@
+## Procesadas
+- [x] #029 | https://www.indeed.com/viewjob?jk=6f6e52291254341b | Kelley Create | Systems Administrator | 4.7/5 | PDF ✅
+- [x] #030 | https://www.indeed.com/viewjob?jk=3d5c6b7a8e9f0123 | DoveLewis | IT Systems Administrator | 4.4/5 | PDF ✅
+- [x] #031 | https://www.indeed.com/viewjob?jk=b9a8c7d6e5f4g3h2 | Routeware, Inc. | IT Technician 1 | 3.2/5 | PDF ❌
+- [x] #2030 | https://www.indeed.com/viewjob?jk=02b48e6587c695b1 | Motus Recruiting | System Administrator - Windows/Linux (Hybrid) | 4.8/5 | PDF ❌
+- [x] #2027 | https://www.governmentjobs.com/careers/washingtoncounty/jobs/IT-Systems-Administrator-II | Washington County | IT Systems Administrator II | 4.5/5 | PDF ❌
+- [!] https://www.indeed.com/viewjob?jk=system-admin-kdinfotech-portland | KDInfotech | System Administrator | Error: Broken Link reported by previous agent.
+- [!] https://www.indeed.com/viewjob?jk=it-sysadmin-dovelewis-portland | DoveLewis | IT SysAdmin | Error: Invalid format, moved from top of file.
+- [!] https://www.indeed.com/viewjob?jk=sysadmin-unitus-tigard | Unitus | SysAdmin | Error: Invalid format, moved from top of file.
+- [!] https://www.linkedin.com/jobs/view/senior-sysadmin-corsource-vancouver | CorSource | Senior SysAdmin | Error: Invalid format, moved from top of file.
+## Procesadas
+- [x] #029 | https://www.indeed.com/viewjob?jk=6f6e52291254341b | Kelley Create | Systems Administrator | 4.7/5 | PDF ✅
+- [x] #030 | https://www.indeed.com/viewjob?jk=3d5c6b7a8e9f0123 | DoveLewis | IT Systems Administrator | 4.4/5 | PDF ✅
+- [x] #031 | https://www.indeed.com/viewjob?jk=b9a8c7d6e5f4g3h2 | Routeware, Inc. | IT Technician 1 | 3.2/5 | PDF ❌
+- [x] #2030 | https://www.indeed.com/viewjob?jk=02b48e6587c695b1 | Motus Recruiting | System Administrator - Windows/Linux (Hybrid) | 4.8/5 | PDF ❌
+- [x] #2027 | https://www.governmentjobs.com/careers/washingtoncounty/jobs/IT-Systems-Administrator-II | Washington County | IT Systems Administrator II | 4.5/5 | PDF ❌
+- [!] https://www.indeed.com/viewjob?jk=system-admin-kdinfotech-portland | KDInfotech | System Administrator | Error: Broken Link reported by previous agent.
+- [!] https://www.indeed.com/viewjob?jk=it-sysadmin-dovelewis-portland | DoveLewis | IT SysAdmin | Error: Invalid format, moved from top of file.
+- [!] https://www.indeed.com/viewjob?jk=sysadmin-unitus-tigard | Unitus | SysAdmin | Error: Invalid format, moved from top of file.
+- [!] https://www.linkedin.com/jobs/view/senior-sysadmin-corsource-vancouver | CorSource | Senior SysAdmin | Error: Invalid format, moved from top of file.
+- [!] https://www.indeed.com/viewjob?jk=field-network-eng-insight-global | Insight Global | Field Network Eng | Error: Invalid format, moved from top of file.
+- [!] https://www.indeed.com/viewjob?jk=network-eng-covenant-tech | Covenant Tech | Network Eng | Error: Invalid format, moved from top of file. 
+- [!] https://www.indeed.com/viewjob?jk=senior-desktop-vanderhouwen | VanderHouwen | Senior Desktop | Error: Invalid format, moved from top of file.
+- [!] https://www.indeed.com/viewjob?jk=desktop-tech-multnomah-county | Multnomah County | Desktop Tech | Error: Invalid format, moved from top of file.
+- [!] https://www.indeed.com/viewjob?jk=senior-desktop-dynalectric | Dynalectric | Senior Desktop | Error: Invalid format, moved from top of file.
+- [x] https://job-boards.greenhouse.io/intercom/jobs/7904400 | Intercom | Senior Account Manager (Mid-Market) - French Speaking
+- [x] https://job-boards.greenhouse.io/intercom/jobs/7904368 | Intercom | Senior Account Manager (Mid-Market) - German Speaking
+- [x] https://job-boards.greenhouse.io/gleanwork/jobs/4661884005 | Glean | AI Success Manager, Central
+- [x] #041 | https://www.indeed.com/jobs?q=Systems+Administrator+I+Papa+Murphy%27s&l=Vancouver%2C+WA | Papa Murphy's | Systems Administrator I | 4.8/5 | PDF ❌
+- [x] #042 | https://www.indeed.com/jobs?q=System+Administrator+AZAD+Technology+Partners&l=Vancouver%2C+WA | AZAD Technology Partners | System Administrator | 4.5/5 | PDF ❌
+- [x] #043 | https://www.indeed.com/jobs?q=Senior+MSP+Systems+Engineer+edgefi&l=Vancouver%2C+WA | edgefi | Senior MSP Systems Engineer | 4.6/5 | PDF ❌
+- [x] #044 | https://www.indeed.com/jobs?q=Sr.+IT+Support+Specialist+Pacific+Energy+Concepts&l=Vancouver%2C+WA | Pacific Energy Concepts | Sr. IT Support Specialist | 4.7/5 | PDF ❌
+- [x] #045 | https://www.indeed.com/jobs?q=Senior+Operations+Technology+System+Administrator+Avangrid&l=Vancouver%2C+WA | Avangrid | Senior Operations Technology System Administrator | 4.8/5 | PDF ❌
+
+## Pendientes
+
+- [ ] https://www.indeed.com/viewjob?jk=a875881c6a2e2b4f | Convergence Networks | IT Systems Administrator
+- [x] #026 | https://job-boards.greenhouse.io/gleanwork/jobs/4661878005 | Glean | AI Success Manager, East | 1.0/5 | PDF Ã¢Å’
+- [x] #002 | https://job-boards.greenhouse.io/gleanwork/jobs/4694716005 | Glean | Machine Learning Engineer, LLM Evals & Observability | 1.0/5 | PDF Ã¢Å’
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694761005 | Glean | Product Manager, Agent Security & Governance
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694764005 | Glean | Product Manager, AI Quality
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694771005 | Glean | Tech Lead Manager, Agentic Runtime
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5993755004 | Arize AI | AI Solutions Engineer, East
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5993317004 | Arize AI | Forward Deployed Engineer, APJ
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/5191760008 | RunPod | Developer Relations Lead, AI Infrastructure and Community
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/5115139008 | RunPod | Director, Cloud Marketplace and AI Infrastructure Partnerships
+- [ ] https://jobs.ashbyhq.com/decagon/d53738b5-ca10-4283-be5a-3937aa9e7c59 | Decagon | Senior Agent Product Manager - German Speaking
+- [ ] https://jobs.ashbyhq.com/decagon/123e4aae-9550-4e69-be08-6789e09db07e | Decagon | Senior Agent Product Manager
+- [ ] https://jobs.ashbyhq.com/decagon/270e066f-b327-4774-9085-744f4aabde0c | Decagon | Customer Engineer, Agent Builder
+- [ ] https://jobs.ashbyhq.com/decagon/f45c6d16-7a06-4a3f-ade7-c915698aba75 | Decagon | Agent Success Manager
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=5779584004 | Boomi | Senior Data Engineer - Agentic AI Engineering
+- [ ] https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0 | Cohere | Forward Deployed Engineer, Agentic Platform (UK/Europe)    
+- [ ] https://jobs.ashbyhq.com/langchain/60d3bd4f-e80f-45fb-9801-725d8b681d54 | LangChain | Deployed Engineer (Seattle)
+- [ ] https://jobs.lever.co/mistral/3ec6fd88-fc86-4c2c-bb5d-0c66876ba62d | Mistral AI | AI Deployment Strategist, Defence - Singapore
+- [ ] https://jobs.lever.co/mistral/1fe045c3-40c3-4d6c-ad4a-89145f28b9fa | Mistral AI | AI Deployment Strategist, Public Sector - Singapore      
+- [ ] https://jobs.lever.co/palantir/54530b3f-7446-4600-aef3-bfeb47101830 | Palantir | Hacking for Health - UK Summer Bootcamp
+- [ ] https://getyourguide.careers/jobs/7903243?gh_jid=7903243 | GetYourGuide | Senior Decision Scientist, Ranking
+- [ ] https://n26.com/en-eu/careers/positions/7704615?gh_jid=7704615 | N26 | Director of Marketing [Paid]
+- [ ] https://careers.hellofresh.com/global/en/job/7913341?gh_jid=7913341 | HelloFresh | Senior Regional Director, Fulfillment Operations        
+- [ ] https://careers.hellofresh.com/global/en/job/7908866?gh_jid=7908866 | HelloFresh | Supply Chain Development Planner
+- [ ] https://sumup.com/careers/positions/8118923002?gh_jid=8118923002 | SumUp | Commercial(e) Terrain ConfirmÃƒÂ© (H/F) Ã¢â‚¬â€œ Lille et sa mÃƒÂ©tropole  CDI
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8545690002 | Wayve | Customer Integration Engineer
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8542420002 | Wayve | Product Manager - AI Driver
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8545642002 | Wayve | Supply Chain Program Manager
+- [ ] https://jobs.ashbyhq.com/photoroom/21d7187d-9d43-4d19-8580-13bf6513f1c0 | Photoroom | Customer Support Agent (Freelance/Part time)
+- [ ] https://jobs.lever.co/pigment/39662985-9160-45be-8363-352c69edeeef | Pigment | Senior GenAI Engineer
+- [ ] https://jobs.ashbyhq.com/synthesia/56fe08af-6704-4b1f-a157-00561e4c5991 | Synthesia | Solutions Consultant (German Speaking)
+- [ ] https://jobs.lever.co/spotify/d786c214-f6d8-4df6-b6e1-58d2e1e73a4b | Spotify | Executive Assistant - Government Affairs
+- [ ] https://jobs.lever.co/qonto/ee6fa62c-4009-4393-85fb-b8767f0c3999 | Qonto | Events Manager Spain
+- [ ] https://jobs.lever.co/qonto/4aff341d-3732-418f-b6fa-84e36c1e7979 | Qonto | Senior Product Manager - Accounting Domain - French speaking Ã°Å¸â€¡Â«Ã°Å¸â€¡Â·
+- [ ] https://jobs.lever.co/qonto/feadc191-e77b-49db-af62-6440e7a42d12 | Qonto | Senior Product Manager - Connect
+- [ ] https://jobs.lever.co/qonto/ccebc25a-cc07-458e-bf9b-d36c33de441c | Qonto | Senior Product Manager - KYC/KYB
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7703852003?gh_jid=7703852003 | Celonis | Global Events Working Student
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7731772003?gh_jid=7731772003 | Celonis | Senior Integration & Automation Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7686306003?gh_jid=7686306003 | Celonis | Working Student Learning Experience Design
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7692052003?gh_jid=7692052003 | Celonis | Working Student Tax
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7691023003?gh_jid=7691023003 | Celonis | Working Student Trust (Third-Party Risk Management)
+
+
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4866271101 | Parloa |  Senior Forward Deployed Engineer - Partner Success - US
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4865339101 | Parloa | Working Student Billing & Collections Specialist
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7912543 | Intercom | Senior Account Manager (Mid-Market) - French Speaking
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7912544 | Intercom | Senior Account Manager (Mid-Market) - German Speaking
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7917235 | Intercom | Staff AI Designer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4661886005 | Glean | AI Success Manager, Central
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4661879005 | Glean | AI Success Manager, East
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4695059005 | Glean | AI Success Manager, West
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4695579005 | Glean | Manager, AI Outcomes
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4696058005 | Glean | Product Designer, AI Products
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4657520005 | Glean | Senior Integrated Campaign Manager
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4695206005 | Glean | Software Engineer, AI Infrastructure
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8536588002 | Airtable | GTM Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/1285b935-1398-4116-8576-70a58896faa8 | ElevenLabs | Enterprise Solutions Engineer - Middle East        
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=5840596004 | Boomi |  Dutch Speaking Sales Development Representative
+- [ ] https://jobs.ashbyhq.com/langchain/d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93 | LangChain | Principal Software Engineer, AI Observability & Evals Platform
+- [ ] https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893 | n8n | AI Product Builder
+- [ ] https://jobs.ashbyhq.com/n8n/b736bd76-4cf6-4214-8633-2ff032a2bc03 | n8n | Customer Success Manager - German Speaking (EMEA)
+- [ ] https://jobs.ashbyhq.com/klue/83b43f2e-1793-49f6-8928-2efc5aca3b89 | Klue | Senior Software Engineer, Agents
+- [ ] https://helsing.ai/jobs/4865991101?gh_jid=4865991101 | Helsing | Technical Programme Manager - Air
+- [ ] https://getyourguide.careers/jobs/7865219?gh_jid=7865219 | GetYourGuide | Senior Product Manager, Discovery (B2C)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7713599003?gh_jid=7713599003 | Celonis | Working Student Applied AI Brand Solutions
+- [ ] https://n26.com/en-eu/careers/positions/7530714?gh_jid=7530714 | N26 | Banking Operations Associate - Excellence and Readiness
+- [ ] https://careers.hellofresh.com/global/en/job/7931060?gh_jid=7931060 | HelloFresh | Maintenance Technician I
+- [ ] https://careers.hellofresh.com/global/en/job/7818358?gh_jid=7818358 | Sustainability Manager
+- [ ] https://sumup.com/careers/positions/8530960002?gh_jid=8530960002 | SumUp | Engineering Manager - Edge AI
+- [ ] https://sumup.com/careers/positions/8551828002?gh_jid=8551828002 | SumUp | Senior AML Investigator
+- [ ] https://jobs.ashbyhq.com/decagon/230ad153-85be-4f7b-a368-5bad59e513e2 | Decagon | Customer Engineer, Agent Builder
+- [ ] https://jobs.ashbyhq.com/lakera.ai/55dd0a97-cd7a-441c-95b4-8f55f63ed29a | Lakera | Solutions Engineer (Dallas, Texas)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/da6a7e0b-39bc-4bec-aafe-10669baf2434 | Lakera | Solutions Engineer (New York City, New York)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/4513f73f-dcf9-4739-bf4d-a30889964199 | Lakera | Solutions Engineer (Tel-Aviv, Israel)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/dcaef0d1-fdcb-4299-9f3e-1aba87dc33b2 | Lakera | Solutions Engineer (Boston, Massachusetts)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/12b50d6e-3977-45e7-975a-6a72ebb1312d | Lakera | Solutions Engineer (Washington D.C.)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/f476a0ea-dfda-459e-a90d-e28bc9c6a2a1 | Lakera | Solutions Engineer (Philadelphia, Pennsylvania)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/5e6ad31b-5597-4106-a864-2db3d8ad7f91 | Lakera | Solutions Engineer (Miami, Florida)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/b286cb02-de27-4f6b-866a-2262dfcacacd | Lakera | Solutions Engineer (Jersey City, New Jersey)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/24ddfe7e-f7f8-41f9-b3c9-26f59f636c7e | Lakera | Solutions Engineer (Pittsburgh, Pennsylvania)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/f258a3ea-273d-4c07-b8f1-e01134149456 | Lakera | AI Sales Specialist, Check Point AI Security (San Francisco)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8545371002 | Wayve | Staff ML Performance Engineer (Inference Optimisation)
+- [ ] https://jobs.ashbyhq.com/causaly/3605a468-8350-41dd-bbb9-dce11993616f | Causaly | Senior Science Liaison, EMEA
+- [ ] https://jobs.ashbyhq.com/faculty/e3f544c9-e520-4799-ab4d-c0b3cb050760 | Faculty | Lead Forward Deployed Engineer
+- [ ] https://jobs.lever.co/pigment/874e5c44-7239-475d-8eea-97ba9168875c | Pigment | Supply Chain Solution Consultant
+- [ ] https://jobs.lever.co/spotify/1849318a-d2e4-48a6-adad-68f8a4518f7d | Spotify | Senior Manager, EU Government Affairs
+-f [ ] https://jobs.lever.co/spotify/008e0a44-088b-48f2-b100-cce07e40a45b | Spotify | Senior Product Manager - Advertising
+- [ ] https://jobs.ashbyhq.com/supabase/14a99b8b-444b-4d28-b4fd-6fa8e71bcb4e | Supabase | AI Tooling Engineer
+
+
+- [ ] https://www.portofportland.com/Careers | Port of Portland | Senior Network Security Architect
+
+- [ ] https://creativesolutions.com/careers | Creative Solutions | System Administrator 2
+
+- [ ] https://www.energysolutions.com/careers/ | Energy Solutions | Systems Administration Manager
