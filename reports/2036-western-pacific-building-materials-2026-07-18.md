@@ -23,7 +23,7 @@ hard_stops: []
 soft_gaps:
   - "AWS and cloud environment familiarity (no direct enterprise history in AWS)"
 top_strengths:
-  - "15 years of technical support, systems, and network experience"
+  - "10 years of technical support, systems, and network experience"
   - "Direct experience managing AD, Okta, and mobile device MDM fleets"
   - "Industrial mechanical contractor sector experience from JH Kelly matches Western Pacific's manufacturing operations"
 risk_level: "Low"
@@ -62,7 +62,7 @@ risk_summary:
 
 | JD Requirement | CV Match |
 |----------------|----------|
-| **3-5 years desktop support experience** | **15 years total IT experience** (Daimler Truck, JH Kelly, MoJoe Enterprises) |
+| **3-5 years desktop support experience** | **10+ years total IT experience** (Daimler Truck, JH Kelly, MoJoe Enterprises) |
 | **Troubleshoot in Microsoft environment** | Extensive work with Windows Client/Server, GPOs, Active Directory, Office suites |
 | **Front-line technical support (phone, email)** | Daimer Truck (phone/ticketing helpdesk), JH Kelly (walk-in, ticket, phone) |
 | **Create/remove user accounts & access control** | JH Kelly: administered AD and OKTA for user lifecycle management |
@@ -177,7 +177,7 @@ risk_summary:
 I am writing to express my strong interest in the Desktop Support Analyst position at Western Pacific Building Materials Inc. With my extensive background in enterprise troubleshooting and end-user support, I am eager to help maintain seamless IT operations across your branch offices.
 
 **Profile introduction**
-Highly experienced IT professional with a 15-year career spanning systems administration, network engineering, and enterprise mobility. I have a proven track record of managing and automating complex hybrid-cloud environments (Windows/Linux/iOS) and supporting end-users with a customer-first mindset.
+Highly experienced IT professional with a 10-year career spanning systems administration, network engineering, and enterprise mobility. I have a proven track record of managing and automating complex hybrid-cloud environments (Windows/Linux/iOS) and supporting end-users with a customer-first mindset.
 
 **Key achievements**
 - **Optimized iOS/Windows device tasks for speed and efficiency** at Daimler Truck LLC.

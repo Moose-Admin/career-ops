@@ -11,7 +11,7 @@ Vancouver, WA
 
 Dear Hiring Manager,
 
-I am writing to express my strong interest in the Desktop Support Analyst position at Western Pacific Building Materials Inc. With a 15-year career in enterprise IT administration, hands-on user support, and infrastructure troubleshooting, I am confident in my ability to bring immediate technical stability and high-quality service to your frontline support operations.
+I am writing to express my strong interest in the Desktop Support Analyst position at Western Pacific Building Materials Inc. With a 10-year career in enterprise IT administration, hands-on user support, and infrastructure troubleshooting, I am confident in my ability to bring immediate technical stability and high-quality service to your frontline support operations.
 
 Throughout my career, I have specialized in endpoint deployment, identity management, and multi-site IT support. In my current role at Daimler Truck LLC, I provide customer-first support for remote and office end-users while managing local device logistics. My systems administration background allows me to diagnose problems deeply, often resolving complex hardware or access control issues on the spot without needing to escalate them.
 

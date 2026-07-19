@@ -287,7 +287,7 @@ generateCV(
     "Western Pacific",
     "Desktop Support Analyst",
     [],
-    "Customer-focused IT support professional with 15 years of experience in endpoint administration, hardware troubleshooting, and enterprise user lifecycle management. Expert in Windows environments, Active Directory lifecycles, and client imaging. Specialized in providing reliable, frontline IT support in industrial and multi-site distribution settings.",
+    "Customer-focused IT support professional with 10 years of experience in endpoint administration, hardware troubleshooting, and enterprise user lifecycle management. Expert in Windows environments, Active Directory lifecycles, and client imaging. Specialized in providing reliable, frontline IT support in industrial and multi-site distribution settings.",
     ["Desktop Support & Helpdesk", "Active Directory & GPOs", "Imaging & Deployment", "Hardware & Peripherals", "Windows Client/Server", "Ticketing & SLA Adherence", "Meraki SD-WAN & Network", "Customer Service Excellence"],
     westernPacificChanges
 );
