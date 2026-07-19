@@ -1,9 +1,9 @@
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|---|---|---|---|---|---|---|---|
 | 2036 | 2026-07-18 | Western Pacific Building Materials Inc | Desktop Support Analyst | 4.3/5 | Evaluated | ✅ | [2036](reports/2036-western-pacific-building-materials-2026-07-18.md) | High confidence match for local IT support and Windows/Linux. |
-| 2035 | 2026-05-24 | Clark County | Network and Telecom Administrator | 4.7/5 | Evaluated | âœ… | [039](reports/039-clark-county-network-admin-2026-05-24.md) | High-fit network role discovered during scan. |
-| 2034 | 2026-05-24 | Clark County | IT Project Manager | 4.2/5 | Evaluated | ❌ | [040](reports/040-clark-county-it-pm-2026-05-24.md) | Technical PM role discovered during scan. |
-| 2033 | 2026-05-24 | Clark County | Desktop Administrator | 4.9/5 | Evaluated | âœ… | [004](reports/OLD_Listing/004-clarkcounty-2026-05-24.md) | Top-tier match (4.9/5). Verified active on portal. |
+| 2035 | 2026-05-24 | Clark County | Network and Telecom Administrator | 4.7/5 | Discarded | ❌ | 2035 | Post expired. Auto-purged files. |
+| 2034 | 2026-05-24 | Clark County | IT Project Manager | 4.2/5 | Discarded | ❌ | 2034 | Post expired. Auto-purged files. |
+| 2033 | 2026-05-24 | Clark County | Desktop Administrator | 4.9/5 | Discarded | ❌ | 2033 | Post expired. Auto-purged files. |
 | 2032 | 2024-07-26 | Glean | Product Manager, Agent Security & Governance | 1.0/5 | SKIP | âŒ | [027](reports/027-glean-pm-agent-security.md) | Geo-blocked. Requires 4 days/week on-site in SF. |
 | 2030 | 2026-05-24 | Motus Recruiting | System Administrator | 4.8/5 | Evaluated | âœ… | [002](reports/002-motus-2026-05-24.md) | High Confidence match. |
 | 2028 | 2024-07-26 | Glean | AI Success Manager, Central | 1.0/5 | SKIP | âŒ | [003](reports/003-glean-remote-us-central-2024-07-26.md) | Geo-blocked. Role requires US Central timezone. |
