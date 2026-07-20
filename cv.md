@@ -31,11 +31,11 @@ Highly experienced IT professional with a 15-year career spanning systems admini
 - Order and manage iPhone fleet for end-users and new hires.
 - Develop and enhance user guides for remote setup and task completion.
 - Optimize iOS/Windows device tasks for speed and efficiency.
-- Deliver helpdesk assistance through ticketing systems and phone inquiries.
+- Deliver helpdesk assistance through ServiceNow ticketing system and inbound phone inquiries.
 
 ### IT Support Specialist II | JH Kelly, LLC
 *April 2019 - February 2024 | Vancouver, WA*
-- Support end-users through walk-ins, tickets, and phone inquiries.
+- Support end-users through walk-ins, tickets, and phone inquiries; authored SOPs and runbooks in Confluence adopted as branch-wide standard procedures.
 - Install and administer Meraki SD-WAN networking devices.
 - Deploy laptops/desktops using Ivanti and Acronis imaging.
 - Manage Zoom/Teams rooms and management portals.
