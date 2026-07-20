@@ -11,21 +11,21 @@ Vancouver, WA
 
 Dear Hiring Manager,
 
-I am writing to express my strong interest in the Desktop Support Analyst position at Western Pacific Building Materials Inc. With a 10-year career in enterprise IT administration, hands-on user support, and infrastructure troubleshooting, I am confident in my ability to bring immediate technical stability and high-quality service to your frontline support operations.
+I am writing to express my strong interest in the Desktop Support Analyst position at Western Pacific Building Materials Inc. With ten years of hands-on experience in enterprise IT administration, end-user support, and infrastructure troubleshooting, I am confident I can bring immediate technical stability and high-quality service to your frontline support team.
 
-Throughout my career, I have specialized in endpoint deployment, identity management, and multi-site IT support. In my current role at Daimler Truck LLC, I provide customer-first support for remote and office end-users while managing local device logistics. My systems administration background allows me to diagnose problems deeply, often resolving complex hardware or access control issues on the spot without needing to escalate them.
+Throughout my career I've specialized in endpoint deployment, identity management, and multi-site IT support. In my current role at Daimler Truck LLC, I provide hands-on support for both remote and office end-users while keeping device logistics running smoothly. My background in systems administration means I can dig into complex hardware and access control problems and resolve them on the spot — without waiting for an escalation.
 
-I understand that Western Pacific Building Materials prioritizes a LEAN operational mindset to ensure speed, consistency, and on-time delivery across your manufacturing and distribution facilities. In a fast-moving physical distribution business, IT downtime directly impacts warehouse software, shipping logistics, and customer orders. I will apply my experience from JH Kelly—where I spent five years supporting IT infrastructure in active construction and mechanical contracting environments—to keep your branch systems, PC hardware, and network interfaces running smoothly.
+I also appreciate that Western Pacific runs a LEAN operation — where speed, consistency, and on-time delivery aren't buzzwords, they're the baseline. I know firsthand how much IT downtime can disrupt a business that depends on warehouse software, shipping logistics, and coordinated branch operations. For five years at JH Kelly, I kept IT infrastructure running across active construction and mechanical contracting sites. That same mindset — fix it fast, document it well, keep people productive — is exactly what I'd bring to your branches.
 
 My technical background aligns directly with the requirements of this role:
 
-*   **Endpoint Deployment & Diagnostics:** I have extensive experience deploying and configure desktops, laptops, and peripheral hardware, utilizing Ivanti and Acronis imaging tools to standardize builds and accelerate system rollouts.
+*   **Endpoint Deployment & Diagnostics:** I've deployed and configured hundreds of desktops, laptops, and peripherals using Ivanti and Acronis imaging — standardizing builds and cutting rollout time significantly.
 *   **Identity & Access Control:** I am highly proficient in managing user lifecycles, account creation, and security permissions within Active Directory, Entra ID (Azure AD), and Okta.
-*   **Infrastructure Support:** At JH Kelly, I installed and administered Meraki SD-WAN devices and supported Cisco VOIP jr. administration, ensuring solid network connectivity for branch offices.
+*   **Infrastructure Support:** At JH Kelly, I installed and managed Meraki SD-WAN devices across multiple sites and handled day-to-day Cisco VoIP administration — keeping branch offices connected and productive.
 
-I am particularly attracted to Western Pacific because of your family-owned culture and emphasis on operational excellence. I am looking to bring my technical expertise back to a hands-on, branch-focused IT role where I can directly support the teams making, shipping, and distributing your products.
+What really draws me to Western Pacific is the family-owned culture and the focus on doing things right. I'm looking to get back to a hands-on IT role where my work directly supports the people on the floor — the ones building, shipping, and delivering your products.
 
-Thank you for your time and consideration. I look forward to discussing how my experience in industrial IT support and desktop administration can help Western Pacific maintain its high standard of service.
+Thank you for your time. I would love the chance to talk through how my background in industrial IT support and desktop administration can help Western Pacific keep running at full speed.
 
 Sincerely,
 
