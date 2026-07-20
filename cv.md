@@ -40,7 +40,7 @@ Highly experienced IT professional with a 15-year career spanning systems admini
 - Deploy laptops/desktops using Ivanti and Acronis imaging.
 - Manage Zoom/Teams rooms and management portals.
 - Administer AD and OKTA for user lifecycle management.
-- Provide Cisco VOIP Jr. Admin support.
+- Served as Junior Administrator for Cisco and Meraki network infrastructure, managing SD-WAN deployments, VoIP systems, and switching configurations across multiple sites.
 - Deploy cell phones using Ivanti/MobileIron MDM.
 
 ### Network / Microsoft Technology Lab Volunteer Technician | Clark College
