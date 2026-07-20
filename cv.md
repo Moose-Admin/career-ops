@@ -3,7 +3,7 @@
 Vancouver, WA | 714-745-9857 | mlinke@gmail.com
 
 ## PROFESSIONAL SUMMARY
-Highly experienced IT professional with a 15-year career spanning systems administration, network engineering, and enterprise mobility. Expert in managing and automating complex hybrid-cloud environments (Linux/Windows/iOS) and modern MDM fleets.
+Highly experienced IT professional with a 15-year career spanning systems administration, network engineering, and enterprise mobility. Expert in managing and automating complex hybrid-cloud environments (Linux/Windows/iOS), modern MDM fleets, and configuring/deploying enterprise-grade network infrastructure including Cisco, Meraki SD-WAN, and Ubiquiti UniFi systems.
 
 ## CERTIFICATIONS
 - **CISCO Cybersecurity Essentials** (2022)
@@ -17,7 +17,7 @@ Highly experienced IT professional with a 15-year career spanning systems admini
 ## TECHNICAL SKILLS
 - **Cloud & Virtualization**: Azure, VMware vSphere/ESXi, Hyper-V, oVirt | *Familiar with: AWS, GCP*      
 - **Automation & IaC**: PowerShell, Bash | *Familiar with: Python, Ansible, Terraform, Docker, Kubernetes*
-- **Networking & Security**: SD-WAN (Meraki), Firewalls (Cisco, PFsense), Zero-Trust Concepts, VPN, IPSec, DNSSEC, Wireshark, Snort
+- **Networking & Security**: SD-WAN (Meraki), Ubiquiti UniFi, Firewalls (Cisco, PFsense), Zero-Trust Concepts, VPN, IPSec, DNSSEC, Wireshark, Snort
 - **Operating Systems**: Windows Server/Client, Linux (RHEL, Ubuntu)
 - **Identity & MDM**: Active Directory, Entra ID (Azure AD), Okta, Intune, MobileIron, Ivanti
 - **Storage & Hardware**: SAN/iSCSI, RAID, Rack-mount Equipment, UPS Maintenance
