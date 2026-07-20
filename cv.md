@@ -21,6 +21,7 @@ Highly experienced IT professional with a 15-year career spanning systems admini
 - **Operating Systems**: Windows Server/Client, Linux (RHEL, Ubuntu)
 - **Identity & MDM**: Active Directory, Entra ID (Azure AD), Okta, Intune, MobileIron, Ivanti
 - **Storage & Hardware**: SAN/iSCSI, RAID, Rack-mount Equipment, UPS Maintenance
+- **Continuous Learning**: Maintain an enterprise-grade HomeLab (vSphere/ESXi, Active Directory, virtualized servers) to experiment with new technologies and test workflow automation solutions.
 
 ## EXPERIENCE
 
