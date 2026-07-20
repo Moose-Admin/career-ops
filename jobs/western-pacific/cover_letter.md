@@ -21,7 +21,7 @@ My technical background aligns directly with the requirements of this role:
 
 *   **Endpoint Deployment & Diagnostics:** I've deployed and configured hundreds of desktops, laptops, and peripherals using Ivanti and Acronis imaging — standardizing builds and cutting rollout time significantly.
 *   **Identity & Access Control:** I am highly proficient in managing user lifecycles, account creation, and security permissions within Active Directory, Entra ID (Azure AD), and Okta.
-*   **Infrastructure Support:** At JH Kelly, I installed and managed Meraki SD-WAN devices across multiple sites and handled day-to-day Cisco VoIP administration — keeping branch offices connected and productive.
+*   **Infrastructure Support:** Served as a Junior Administrator for Cisco and Meraki network infrastructure at JH Kelly, managing SD-WAN deployments, VoIP administration, and multi-site connectivity to keep branch offices running smoothly.
 
 What really draws me to Western Pacific is the family-owned culture and the focus on doing things right. I'm looking to get back to a hands-on IT role where my work directly supports the people on the floor — the ones building, shipping, and delivering your products.
 
