@@ -132,11 +132,15 @@ export function buildHtml(payload, templatePath) {
   // Optional salutation (e.g. "Dear Jane Smith,"). Omitted -> no salutation,
   // preserving the original behavior for payloads that don't set it.
   const greetingBlock = letter.greeting ? `<p class="greeting">${escapeHtml(letter.greeting)}</p>` : "";
-  const closingBlock = letter.closing ? `<p>${escapeHtml(letter.closing)}</p>` : "";
+  const closingBlock = letter.closing
+    ? letter.closing.split(/\n\n+/).map(p => `<p>${escapeHtml(p.trim())}</p>`).join('\n  ')
+    : "";
   const languageClosingBlock = letter.language_closing
     ? `<p class="language-closing">${escapeHtml(letter.language_closing)}</p>`
     : "";
-  const problemsBlock = letter.problems_section ? `<p>${escapeHtml(letter.problems_section)}</p>` : "";
+  const problemsBlock = letter.problems_section
+    ? letter.problems_section.split(/\n\n+/).map(p => `<p>${escapeHtml(p.trim())}</p>`).join('\n  ')
+    : "";
 
   const replacements = {
     "{{NAME}}": escapeHtml(candidate.name),
