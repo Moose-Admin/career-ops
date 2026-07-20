@@ -50,6 +50,7 @@ Highly experienced IT professional with a 15-year career spanning systems admini
 - Perform rack maintenance (SAN hot-swap, UPS batteries).
 - Assist with NETLab system migrations.
 - Mentor students in subnetting and network design.
+- Gain hands-on experience configuring and administering AWS Web Services for WebDev course environments.
 
 ### Desktop Support / IT Administrator | MoJoe Enterprises LLC / Rock That Media LLC
 *January 2006 - December 2017*
