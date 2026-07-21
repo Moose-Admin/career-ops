@@ -15,7 +15,7 @@ Highly experienced IT professional with a 15-year career spanning systems admini
 - **MTA Microsoft Security Essentials** (2015)
 
 ## TECHNICAL SKILLS
-- **Cloud & Virtualization**: Azure, VMware vSphere/ESXi, Hyper-V, oVirt | *Familiar with: AWS, GCP*      
+- **Cloud & Virtualization**: Azure, VMware vSphere/ESXi, Proxmox VE, Hyper-V, oVirt | *Familiar with: AWS, GCP*      
 - **Automation & IaC**: PowerShell, Bash | *Familiar with: Python, Ansible, Terraform, Docker, Kubernetes*
 - **Networking & Security**: SD-WAN (Meraki), Ubiquiti UniFi, Firewalls (Cisco, PFsense), Zero-Trust Concepts, VPN, IPSec, DNSSEC, Wireshark, Snort
 - **Operating Systems**: Windows Server/Client, Linux (RHEL, Ubuntu)

@@ -111,6 +111,10 @@
     border: 1px solid #e2e2e2;
   }
 
+  .cv-photo--rounded { border-radius: 8px; }
+  .cv-photo--circle { border-radius: 50%; aspect-ratio: 1; height: 80px; }
+  .cv-photo--square { border-radius: 0; aspect-ratio: 1; height: 80px; }
+
   /* === SECTIONS === */
   .section {
     margin-bottom: 18px;
@@ -452,6 +456,52 @@
       'Yu Gothic', 'YuGothic', 'Noto Sans CJK JP', 'Noto Sans JP',
       Meiryo, 'MS PGothic', sans-serif;
   }
+
+  /* === Simplified Chinese typography ===
+     Keep Latin-capable system fonts first for stable ATS extraction, then use
+     platform-native and open-source Simplified Chinese faces for Han glyphs.
+     Explicit line-breaking prevents mixed Chinese/English tokens and Chinese
+     punctuation from producing clipped or awkward PDF lines. */
+  html[lang="zh-CN"] body,
+  html[lang="zh"] body {
+    font-family: 'Liberation Sans', 'Helvetica Neue', Arial, 'PingFang SC',
+      'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC',
+      'Noto Sans SC', 'Source Han Sans SC', sans-serif;
+    line-break: strict;
+    word-break: normal;
+    overflow-wrap: break-word;
+  }
+
+  html[lang="zh-CN"] .header h1,
+  html[lang="zh-CN"] .section-title,
+  html[lang="zh-CN"] .job-company,
+  html[lang="zh-CN"] .project-title,
+  html[lang="zh-CN"] .contact-row,
+  html[lang="zh-CN"] .competency-tag,
+  html[lang="zh-CN"] .skill-category,
+  html[lang="zh"] .header h1,
+  html[lang="zh"] .section-title,
+  html[lang="zh"] .job-company,
+  html[lang="zh"] .project-title,
+  html[lang="zh"] .contact-row,
+  html[lang="zh"] .competency-tag,
+  html[lang="zh"] .skill-category {
+    font-family: 'Liberation Sans', 'Helvetica Neue', Arial, 'PingFang SC',
+      'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC',
+      'Noto Sans SC', 'Source Han Sans SC', sans-serif;
+  }
+
+  html[lang="zh-CN"] .summary-text,
+  html[lang="zh"] .summary-text,
+  html[lang="zh-CN"] .job li,
+  html[lang="zh"] .job li {
+    line-height: 1.7;
+  }
+
+  html[lang="zh-CN"] .section-title,
+  html[lang="zh"] .section-title {
+    letter-spacing: 0.03em;
+  }
 </style>
 </head>
 <body>
@@ -478,7 +528,7 @@
   <!-- PROFESSIONAL SUMMARY -->
   <div class="section">
     <div class="section-title">Professional Summary</div>
-    <div class="summary-text">Customer-focused IT support professional with 10 years of experience in endpoint administration, hardware troubleshooting, and enterprise user lifecycle management. Expert in Windows environments, Active Directory lifecycles, and client imaging. Specialized in providing reliable, frontline IT support in industrial and multi-site distribution settings.</div>
+    <div class="summary-text">Customer-focused Desktop Support Analyst with 10+ years of hands-on IT experience across corporate, distribution, and manufacturing/industrial environments. Proven track record managing user lifecycles and access controls across Active Directory, Entra ID (Azure AD), and Okta, standardizing system builds with network imaging tools, and resolving walkup, phone, and helpdesk tickets end-to-end. Adept at hardware diagnostics, peripheral and printer fleet management, warehouse device support (barcode/RF scanners, label printers), and virtualization / network troubleshooting (Proxmox VE, vSphere, Meraki SD-WAN), minimizing operational IT downtime while ensuring strict security and safety compliance.</div>
   </div>
 
   <!-- CORE COMPETENCIES -->
@@ -486,13 +536,13 @@
     <div class="section-title">Core Competencies</div>
     <div class="competencies-grid">
       <span class="competency-tag">Desktop Support & Helpdesk</span>
-      <span class="competency-tag">Active Directory & GPOs</span>
+      <span class="competency-tag">Active Directory & Entra ID</span>
       <span class="competency-tag">Imaging & Deployment</span>
-      <span class="competency-tag">Hardware & Peripherals</span>
+      <span class="competency-tag">Virtualization (Proxmox/vSphere)</span>
+      <span class="competency-tag">Warehouse & Peripherals</span>
       <span class="competency-tag">Windows Client/Server</span>
       <span class="competency-tag">Ticketing & SLA Adherence</span>
       <span class="competency-tag">Meraki SD-WAN & Network</span>
-      <span class="competency-tag">Customer Service Excellence</span>
     </div>
   </div>
 
@@ -508,9 +558,11 @@
       <div class="job-role">Mobile Device Support iOS</div>
       <div class="job-location">Portland, OR</div>
       <ul>
-        <li>Deliver customer-first frontline technical support for end-users, resolving hardware, software, and device setup tickets.</li>
-        <li>Manage fleet inventory and provisioning for iPhone devices using modern MDM (Ivanti/MobileIron) profiles.</li>
-        <li>Create clear remote user documentation and onboarding guides to streamline end-user self-service.</li>
+        <li>Deliver customer-first Tier 1–2 helpdesk, walkup, and remote support via ServiceNow, resolving mobile device, OS, and application issues under strict SLA targets.</li>
+        <li>Order, receive, provision, and track mobile device fleet inventory (iOS, macOS, Windows) for corporate end-users, remote workers, and new hires.</li>
+        <li>Configure client endpoints using modern enterprise MDM platforms (Intune, MobileIron, Ivanti), configuration profiles, and automated setup tools.</li>
+        <li>Oversee asset lifecycle logistics, executing hardware decommissioning, secure data wiping, and asset de-registration.</li>
+        <li>Author and update standard operating procedures (SOPs) and self-service setup guides, reducing initial onboarding ticket volume.</li>
       </ul>
     </div>
 
@@ -522,10 +574,12 @@
       <div class="job-role">IT Support Specialist II</div>
       <div class="job-location">Vancouver, WA</div>
       <ul>
-        <li>Deploy and configure desktops, laptops, and peripheral hardware using <strong>Ivanti and Acronis imaging</strong>.</li>
-        <li>Administer Active Directory, Entra ID, and Okta for user lifecycle management and access control.</li>
-        <li>Provide backup support for server room hardware, SAN storage, and Meraki SD-WAN branch office networking.</li>
-        <li>Resolve frontline IT helpdesk inquiries via ticketing system and phone support, maintaining strict SLAs.</li>
+        <li>Triaged and resolved walk-in, phone, and ticket queues end-to-end, independently managing priority and SLA compliance across multi-site field and branch operations.</li>
+        <li>Provisioned and deployed desktops, laptops, and warehouse hardware (barcode scanners, label printers, handheld RF units) via <strong>Ivanti and Acronis imaging</strong>, standardizing builds and cutting rollout times.</li>
+        <li>Administered Windows Server environments (Active Directory, DNS, DHCP, GPOs) and Entra ID; automated user provisioning and reporting routines with custom PowerShell scripts.</li>
+        <li>Managed enterprise network printer fleet (HP/Lexmark), configuring print servers and driver rollouts; authored branch-wide IT SOPs and runbooks in Confluence.</li>
+        <li>Installed and administered Meraki SD-WAN appliances, configured VLANs, racked/patched switches, and assisted with Cisco networking and VoIP administration.</li>
+        <li>Conducted industrial site visits adhering to safety/PPE protocols to maintain branch and field office IT hardware and network infrastructure.</li>
       </ul>
     </div>
 
@@ -537,8 +591,9 @@
       <div class="job-role">Network / Microsoft Technology Lab Volunteer Technician</div>
       <div class="job-location">Vancouver, WA</div>
       <ul>
-        <li>Troubleshoot network topologies, Cisco routing/switching, and Microsoft AD forests in lab settings.</li>
-        <li>Maintain physical server racks, SAN storage arrays, and UPS equipment to ensure continuous lab operations.</li>
+        <li>Troubleshot Cisco routing/switching hardware, Microsoft Active Directory forests, and Linux servers in an enterprise lab environment.</li>
+        <li>Executed physical rack maintenance, Cisco module replacements (HWICs, SMART-Serial), SAN hot-swapping, and UPS battery maintenance.</li>
+        <li>Mentored students in subnetting and network design while gaining hands-on AWS EC2 deployment experience.</li>
       </ul>
     </div>
 
@@ -550,8 +605,8 @@
       <div class="job-role">Desktop Support / IT Administrator</div>
       <div class="job-location">Various</div>
       <ul>
-        <li>Diagnose and resolve performance bottlenecks on Linux/Windows client and server systems.</li>
-        <li>Manage client PC system rollouts, operating system configurations, and login scripts.</li>
+        <li>Deployed and configured Windows desktop environments, executing automated login scripts and client system rollouts.</li>
+        <li>Administered local infrastructure, diagnosed OS/hardware bottlenecks, and conducted employee cybersecurity security awareness training.</li>
       </ul>
     </div>
     

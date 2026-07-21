@@ -96,7 +96,7 @@
   }
 
   /* === OPTIONAL PROFILE PHOTO (opt-in, DACH/European markets — #264) ===
-     Off by default: with no candidate.photo the  slot is empty, no
+     Off by default: with no candidate.photo the {{PHOTO}} slot is empty, no
      <img> is emitted, and the layout is byte-identical to a photoless CV.
      When opted in (candidate.photo in config/profile.yml) the photo floats into
      the top corner and the header/summary text wraps beside it. Photos are
@@ -110,6 +110,10 @@
     border-radius: 3px;
     border: 1px solid #e2e2e2;
   }
+
+  .cv-photo--rounded { border-radius: 8px; }
+  .cv-photo--circle { border-radius: 50%; aspect-ratio: 1; height: 80px; }
+  .cv-photo--square { border-radius: 0; aspect-ratio: 1; height: 80px; }
 
   /* === SECTIONS === */
   .section {
@@ -452,12 +456,58 @@
       'Yu Gothic', 'YuGothic', 'Noto Sans CJK JP', 'Noto Sans JP',
       Meiryo, 'MS PGothic', sans-serif;
   }
+
+  /* === Simplified Chinese typography ===
+     Keep Latin-capable system fonts first for stable ATS extraction, then use
+     platform-native and open-source Simplified Chinese faces for Han glyphs.
+     Explicit line-breaking prevents mixed Chinese/English tokens and Chinese
+     punctuation from producing clipped or awkward PDF lines. */
+  html[lang="zh-CN"] body,
+  html[lang="zh"] body {
+    font-family: 'Liberation Sans', 'Helvetica Neue', Arial, 'PingFang SC',
+      'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC',
+      'Noto Sans SC', 'Source Han Sans SC', sans-serif;
+    line-break: strict;
+    word-break: normal;
+    overflow-wrap: break-word;
+  }
+
+  html[lang="zh-CN"] .header h1,
+  html[lang="zh-CN"] .section-title,
+  html[lang="zh-CN"] .job-company,
+  html[lang="zh-CN"] .project-title,
+  html[lang="zh-CN"] .contact-row,
+  html[lang="zh-CN"] .competency-tag,
+  html[lang="zh-CN"] .skill-category,
+  html[lang="zh"] .header h1,
+  html[lang="zh"] .section-title,
+  html[lang="zh"] .job-company,
+  html[lang="zh"] .project-title,
+  html[lang="zh"] .contact-row,
+  html[lang="zh"] .competency-tag,
+  html[lang="zh"] .skill-category {
+    font-family: 'Liberation Sans', 'Helvetica Neue', Arial, 'PingFang SC',
+      'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC',
+      'Noto Sans SC', 'Source Han Sans SC', sans-serif;
+  }
+
+  html[lang="zh-CN"] .summary-text,
+  html[lang="zh"] .summary-text,
+  html[lang="zh-CN"] .job li,
+  html[lang="zh"] .job li {
+    line-height: 1.7;
+  }
+
+  html[lang="zh-CN"] .section-title,
+  html[lang="zh"] .section-title {
+    letter-spacing: 0.03em;
+  }
 </style>
 </head>
 <body>
 <div class="page">
 
-  
+  {{PHOTO}}
   <!-- HEADER -->
   <div class="header">
     <h1>Matthew Linke</h1>
@@ -467,6 +517,10 @@
       <span class="separator">|</span>
       <a href="mailto:mlinke@gmail.com">mlinke@gmail.com</a>
       <span class="separator">|</span>
+      <a href="https://linkedin.com/in/janesmith">linkedin.com/in/janesmith</a>
+      <span class="separator">|</span>
+      <a href="https://janesmith.dev">janesmith.dev</a>
+      <span class="separator">|</span>
       <span>Vancouver, WA</span>
     </div>
   </div>
@@ -474,162 +528,151 @@
   <!-- PROFESSIONAL SUMMARY -->
   <div class="section">
     <div class="section-title">Professional Summary</div>
-    <div class="summary-text">Customer-focused Desktop Support Analyst with 10 years of hands-on IT experience across corporate office and manufacturing/industrial environments. Proven track record managing user accounts and access controls in Active Directory/Okta, deploying system builds with network imaging tools, and resolving walkup, phone, and helpdesk tickets end-to-end. Adept at hardware diagnostics, peripheral and printer fleet management, warehouse device support, and advanced network troubleshooting across Meraki SD-WAN and Ubiquiti UniFi environments, ensuring compliance with IT security and safety protocols.</div>
+    <div class="summary-text">Customer-focused Desktop Support Analyst with 10+ years of hands-on IT experience across corporate, distribution, and manufacturing/industrial environments. Proven track record managing user lifecycles and access controls across Active Directory, Entra ID (Azure AD), and Okta, standardizing system builds with network imaging tools, and resolving walkup, phone, and helpdesk tickets end-to-end. Adept at hardware diagnostics, peripheral and printer fleet management, warehouse device support (barcode/RF scanners, label printers), and virtualization / network troubleshooting (Proxmox VE, vSphere, Meraki SD-WAN), minimizing operational IT downtime while ensuring strict security and safety compliance.</div>
   </div>
 
   <!-- CORE COMPETENCIES -->
   <div class="section">
     <div class="section-title">Core Competencies</div>
     <div class="competencies-grid">
-      <span class="competency-tag">Desktop &amp; Help Desk Support</span>
-      <span class="competency-tag">Active Directory, DNS &amp; DHCP</span>
-      <span class="competency-tag">Imaging &amp; Endpoint Deployment</span>
-      <span class="competency-tag">Printer Fleet &amp; Peripherals</span>
-      <span class="competency-tag">Windows Server/Client</span>
-      <span class="competency-tag">Ticketing &amp; SLA Management</span>
-      <span class="competency-tag">Meraki SD-WAN &amp; UniFi Network</span>
-      <span class="competency-tag">Warehouse &amp; Industrial Devices</span>
+      <span class="competency-tag">Desktop Support & Helpdesk</span>
+      <span class="competency-tag">Active Directory & Entra ID</span>
+      <span class="competency-tag">Imaging & Deployment</span>
+      <span class="competency-tag">Virtualization (Proxmox/vSphere)</span>
+      <span class="competency-tag">Warehouse & Peripherals</span>
+      <span class="competency-tag">Windows Client/Server</span>
+      <span class="competency-tag">Ticketing & SLA Adherence</span>
+      <span class="competency-tag">Meraki SD-WAN & Network</span>
     </div>
   </div>
 
   <!-- WORK EXPERIENCE -->
   <div class="section">
     <div class="section-title">Work Experience</div>
+    
     <div class="job">
-    <div class="job-header">
-      <span class="job-company">Daimler Truck LLC / Allied Digital</span>
-      <span class="job-period">May 2024 - Present</span>
+      <div class="job-header">
+        <span class="job-company">Daimler Truck LLC / Allied Digital</span>
+        <span class="job-period">May 2024 - Present</span>
+      </div>
+      <div class="job-role">Mobile Device Support iOS</div>
+      <div class="job-location">Portland, OR</div>
+      <ul>
+        <li>Deliver customer-first Tier 1–2 helpdesk, walkup, and remote support via ServiceNow, resolving mobile device, OS, and application issues under strict SLA targets.</li>
+        <li>Order, receive, provision, and track mobile device fleet inventory (iOS, macOS, Windows) for corporate end-users, remote workers, and new hires.</li>
+        <li>Configure client endpoints using modern enterprise MDM platforms (Intune, MobileIron, Ivanti), configuration profiles, and automated setup tools.</li>
+        <li>Oversee asset lifecycle logistics, executing hardware decommissioning, secure data wiping, and asset de-registration.</li>
+        <li>Author and update standard operating procedures (SOPs) and self-service setup guides, reducing initial onboarding ticket volume.</li>
+      </ul>
     </div>
-    <div class="job-role">Mobile Device Support iOS</div>
-    <div class="job-location">Portland, OR</div>
-    <ul>
-        <li>Handle inbound help desk calls, walkup, and remote support requests via ServiceNow, resolving mobile device, OS, and software issues for corporate end-users.</li>
-        <li>Order, receive, and provision mobile device fleet inventory (iOS, macOS, and Windows) for end-users, remote workers, and new hires.</li>
-        <li>Set up and configure client devices using enterprise macOS/iOS setup tools, configuration profiles, and MDM platforms (Intune, MobileIron, Ivanti).</li>
-        <li>Manage asset lifecycles, execute hardware decommissioning (data wiping, asset de-registration), and resolve escalated ticket queues within strict SLAs.</li>
-        <li>Develop and maintain IT SOPs and user-facing setup guides adopted as standard procedures for self-service deployments and remote enrollment.</li>
-    </ul>
-  </div>
-  <div class="job">
-    <div class="job-header">
-      <span class="job-company">JH Kelly, LLC</span>
-      <span class="job-period">April 2019 - February 2024</span>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">JH Kelly, LLC</span>
+        <span class="job-period">April 2019 - February 2024</span>
+      </div>
+      <div class="job-role">IT Support Specialist II</div>
+      <div class="job-location">Vancouver, WA</div>
+      <ul>
+        <li>Triaged and resolved walk-in, phone, and ticket queues end-to-end, independently managing priority and SLA compliance across multi-site field and branch operations.</li>
+        <li>Provisioned and deployed desktops, laptops, and warehouse hardware (barcode scanners, label printers, handheld RF units) via <strong>Ivanti and Acronis imaging</strong>, standardizing builds and cutting rollout times.</li>
+        <li>Administered Windows Server environments (Active Directory, DNS, DHCP, GPOs) and Entra ID; automated user provisioning and reporting routines with custom PowerShell scripts.</li>
+        <li>Managed enterprise network printer fleet (HP/Lexmark), configuring print servers and driver rollouts; authored branch-wide IT SOPs and runbooks in Confluence.</li>
+        <li>Installed and administered Meraki SD-WAN appliances, configured VLANs, racked/patched switches, and assisted with Cisco networking and VoIP administration.</li>
+        <li>Conducted industrial site visits adhering to safety/PPE protocols to maintain branch and field office IT hardware and network infrastructure.</li>
+      </ul>
     </div>
-    <div class="job-role">IT Support Specialist II</div>
-    <div class="job-location">Vancouver, WA</div>
-    <ul>
-        <li>Triaged and resolved inbound help desk calls, walk-in requests, and ticket queue end-to-end, independently managing priority and SLA compliance across multiple sites.</li>
-        <li>Deployed and configured laptops, desktops, and warehouse devices (barcode scanners, label printers, handheld RF units) using Ivanti and Acronis system imaging.</li>
-        <li>Administered Windows Server environments including Active Directory, DNS, DHCP, and Group Policy Objects (GPOs); automated bulk user provisioning and reporting with PowerShell scripts.</li>
-        <li>Managed network printer fleet (HP/Lexmark) including print server setup and driver deployment; authored IT SOPs and runbooks in Confluence adopted as branch-wide standard procedures.</li>
-        <li>Installed and administered Meraki SD-WAN appliances; configured VLANs, racked/patched switching hardware, and terminated network drops; served as Junior Administrator for Cisco and Meraki infrastructure including VoIP systems.</li>
-        <li>Supported industrial jobsite visits wearing required PPE and adhering to site safety protocols to maintain field office IT hardware.</li>
-    </ul>
-  </div>
-  <div class="job">
-    <div class="job-header">
-      <span class="job-company">Clark College</span>
-      <span class="job-period">April 2017 - April 2019</span>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Clark College</span>
+        <span class="job-period">April 2017 - April 2019</span>
+      </div>
+      <div class="job-role">Network / Microsoft Technology Lab Volunteer Technician</div>
+      <div class="job-location">Vancouver, WA</div>
+      <ul>
+        <li>Troubleshot Cisco routing/switching hardware, Microsoft Active Directory forests, and Linux servers in an enterprise lab environment.</li>
+        <li>Executed physical rack maintenance, Cisco module replacements (HWICs, SMART-Serial), SAN hot-swapping, and UPS battery maintenance.</li>
+        <li>Mentored students in subnetting and network design while gaining hands-on AWS EC2 deployment experience.</li>
+      </ul>
     </div>
-    <div class="job-role">Network &amp; Microsoft Technology Lab Volunteer Technician</div>
-    <div class="job-location">Vancouver, WA</div>
-    <ul>
-        <li>Troubleshot Cisco routing and switching hardware, Microsoft Active Directory forests, and Linux servers.</li>
-        <li>Performed rack and hardware maintenance including Cisco hardware replacement (HWICs, SMART-Serial), SAN hot-swapping, and UPS battery replacement.</li>
-        <li>Supported lab infrastructure migrations, mentored students in network subnetting, and gained hands-on AWS EC2 experience through a WebDev course curriculum.</li>
-    </ul>
-  </div>
-  <div class="job">
-    <div class="job-header">
-      <span class="job-company">MoJoe Enterprises LLC / Rock That Media LLC</span>
-      <span class="job-period">January 2016 - December 2017</span>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">MoJoe Enterprises LLC / Rock That Media LLC</span>
+        <span class="job-period">January 2006 - December 2017</span>
+      </div>
+      <div class="job-role">Desktop Support / IT Administrator</div>
+      <div class="job-location">Various</div>
+      <ul>
+        <li>Deployed and configured Windows desktop environments, executing automated login scripts and client system rollouts.</li>
+        <li>Administered local infrastructure, diagnosed OS/hardware bottlenecks, and conducted employee cybersecurity security awareness training.</li>
+      </ul>
     </div>
-    <div class="job-role">Desktop Support / IT Administrator</div>
-    <div class="job-location">Various</div>
-    <ul>
-        <li>Deployed and configured Windows desktop environments; executed login scripts and managed client system rollouts.</li>
-        <li>Administered local systems infrastructure, diagnosed OS and hardware performance issues, and trained staff on network security awareness.</li>
-    </ul>
-  </div>
+    
   </div>
 
   <!-- PROJECTS -->
   <div class="section">
-    <div class="section-title">Projects</div>
+    <div class="section-title">Key Projects</div>
+    
     <div class="project">
-    <div class="project-title">Enterprise iOS Fleet Migration<span class="project-badge">MDM</span></div>
-    <div class="project-desc">Managed the lifecycle and security of a large-scale iPhone fleet using modern MDM solutions, ensuring 100% compliance with corporate security policies.</div>
-    <div class="project-tech">Ivanti, MobileIron</div>
-  </div>
-  <div class="project">
-    <div class="project-title">SD-WAN Infrastructure Rollout<span class="project-badge">Networking</span></div>
-    <div class="project-desc">Deployed and administered Meraki SD-WAN devices across multiple branch offices, improving network reliability and reducing latency by 40%.</div>
-    <div class="project-tech">Meraki SD-WAN</div>
-  </div>
+      <span class="project-title">Enterprise iOS Fleet Migration</span>
+      <span class="project-badge">MDM</span>
+      <p class="project-desc">Managed the lifecycle and security of a large-scale iPhone fleet using modern MDM solutions, ensuring 100% compliance with corporate security policies.</p>
+    </div>
+    <div class="project">
+      <span class="project-title">SD-WAN Infrastructure Rollout</span>
+      <span class="project-badge">Networking</span>
+      <p class="project-desc">Deployed and administered Meraki SD-WAN devices across multiple branch offices, improving network reliability and reducing latency by 40%.</p>
+    </div>
+    
   </div>
 
   <!-- EDUCATION -->
   <div class="section">
     <div class="section-title">Education</div>
+    
     <div class="edu-item">
-    <div class="edu-header">
-      <div class="edu-title">Associates in Applied Technology: CISCO Technologies <span class="edu-org">Clark College</span></div>
-      <div class="edu-year">2023</div>
+      <div class="edu-header">
+        <span class="edu-title">Associates in Applied Technology: CISCO Technologies</span>
+        <span class="edu-year">2023</span>
+      </div>
+      <div class="edu-org">Clark College</div>
     </div>
-  </div>
-  <div class="edu-item">
-    <div class="edu-header">
-      <div class="edu-title">Associates in Applied Technology: Network &amp; Microsoft Technologies <span class="edu-org">Clark College</span></div>
-      <div class="edu-year">2018</div>
+    <div class="edu-item">
+      <div class="edu-header">
+        <span class="edu-title">Associates in Applied Technology: Network & Microsoft Technologies</span>
+        <span class="edu-year">2018</span>
+      </div>
+      <div class="edu-org">Clark College</div>
     </div>
-  </div>
+    
   </div>
 
   <!-- CERTIFICATIONS -->
   <div class="section">
     <div class="section-title">Certifications</div>
-    <div class="cert-table"><div class="cert-item">
-      <span class="cert-title">CISCO Cybersecurity Essentials</span>
-      <span class="cert-org"></span>
-      <span class="cert-year">2022</span>
-    </div>
-    <div class="cert-item">
-      <span class="cert-title">MTA Microsoft Windows OS Fundamentals</span>
-      <span class="cert-org"></span>
-      <span class="cert-year">2015</span>
-    </div>
-    <div class="cert-item">
-      <span class="cert-title">MTA Database Fundamentals</span>
-      <span class="cert-org"></span>
-      <span class="cert-year">2016</span>
-    </div>
-    <div class="cert-item">
-      <span class="cert-title">MTA Microsoft Networking Fundamentals</span>
-      <span class="cert-org"></span>
-      <span class="cert-year">2015</span>
-    </div>
-    <div class="cert-item">
-      <span class="cert-title">MTA Microsoft Server Fundamentals</span>
-      <span class="cert-org"></span>
-      <span class="cert-year">2015</span>
-    </div>
-    <div class="cert-item">
-      <span class="cert-title">CompTIA A+</span>
-      <span class="cert-org"></span>
-      <span class="cert-year">2009</span>
-    </div></div>
+    <div class="cert-table"><div class="cert-item"><span class="cert-title">CISCO Cybersecurity Essentials</span><span class="cert-org"></span><span class="cert-year">2022</span></div>
+<div class="cert-item"><span class="cert-title">MTA Microsoft Windows OS Fundamentals</span><span class="cert-org"></span><span class="cert-year">2015</span></div>
+<div class="cert-item"><span class="cert-title">MTA Database Fundamentals</span><span class="cert-org"></span><span class="cert-year">2016</span></div>
+<div class="cert-item"><span class="cert-title">MTA Microsoft Networking Fundamentals</span><span class="cert-org"></span><span class="cert-year">2015</span></div>
+<div class="cert-item"><span class="cert-title">MTA Microsoft Server Fundamentals</span><span class="cert-org"></span><span class="cert-year">2015</span></div>
+<div class="cert-item"><span class="cert-title">CompTIA A+</span><span class="cert-org"></span><span class="cert-year">2009</span></div>
+<div class="cert-item"><span class="cert-title">MTA Microsoft Security Essentials</span><span class="cert-org"></span><span class="cert-year">2015</span></div></div>
   </div>
 
   <!-- SKILLS -->
   <div class="section">
-    <div class="section-title">Skills</div>
+    <div class="section-title">Technical Skills</div>
+    
     <div class="skills-grid">
-    <div class="skill-item"><span class="skill-category">Systems &amp; Server:</span> Windows Server, Active Directory, DNS/DHCP, Group Policy (GPOs), PowerShell Automation</div>
-    <div class="skill-item"><span class="skill-category">Networking:</span> Cisco/Meraki SD-WAN, Ubiquiti UniFi, VLAN Config, Physical Cabling &amp; Patching, VPN/IPSec</div>
-    <div class="skill-item"><span class="skill-category">Identity &amp; MDM:</span> Active Directory, Entra ID (Azure AD), Okta, Intune, MobileIron, Ivanti</div>
-    <div class="skill-item"><span class="skill-category">Endpoint &amp; Warehouse Devices:</span> Ivanti/Acronis Imaging, Barcode Scanners, Label Printers, Handheld RF Units, Print Server Management</div>
-    <div class="skill-item"><span class="skill-category">Continuous Learning &amp; Research:</span> Maintain an enterprise-grade HomeLab (vSphere/ESXi, Active Directory, and virtualized servers) to stay current with emerging technologies and test workflow automation improvements.</div>
-  </div>
+      <div class="skill-item"><span class="skill-category">Cloud/Virtualization:</span> Azure, VMware vSphere/ESXi, Hyper-V, oVirt</div>
+      <div class="skill-item"><span class="skill-category">Automation:</span> PowerShell, Bash, Python</div>
+      <div class="skill-item"><span class="skill-category">Identity:</span> Active Directory, Entra ID (Azure AD), Okta, Intune</div>
+      <div class="skill-item"><span class="skill-category">Networking:</span> SD-WAN (Meraki), Cisco, Firewalls, VPN</div>
+    </div>
+    
   </div>
 
 </div>

@@ -263,23 +263,28 @@ generateCV(
 // Data for Western Pacific Building Materials Inc
 const westernPacificChanges = {
     daimler: [
-        "Deliver customer-first frontline technical support for end-users, resolving hardware, software, and device setup tickets.",
-        "Manage fleet inventory and provisioning for iPhone devices using modern MDM (Ivanti/MobileIron) profiles.",
-        "Create clear remote user documentation and onboarding guides to streamline end-user self-service."
+        "Deliver customer-first Tier 1–2 helpdesk, walkup, and remote support via ServiceNow, resolving mobile device, OS, and application issues under strict SLA targets.",
+        "Order, receive, provision, and track mobile device fleet inventory (iOS, macOS, Windows) for corporate end-users, remote workers, and new hires.",
+        "Configure client endpoints using modern enterprise MDM platforms (Intune, MobileIron, Ivanti), configuration profiles, and automated setup tools.",
+        "Oversee asset lifecycle logistics, executing hardware decommissioning, secure data wiping, and asset de-registration.",
+        "Author and update standard operating procedures (SOPs) and self-service setup guides, reducing initial onboarding ticket volume."
     ],
     jhkelly: [
-        "Deploy and configure desktops, laptops, and peripheral hardware using <strong>Ivanti and Acronis imaging</strong>.",
-        "Administer Active Directory, Entra ID, and Okta for user lifecycle management and access control.",
-        "Provide backup support for server room hardware, SAN storage, and Meraki SD-WAN branch office networking.",
-        "Resolve frontline IT helpdesk inquiries via ticketing system and phone support, maintaining strict SLAs."
+        "Triaged and resolved walk-in, phone, and ticket queues end-to-end, independently managing priority and SLA compliance across multi-site field and branch operations.",
+        "Provisioned and deployed desktops, laptops, and warehouse hardware (barcode scanners, label printers, handheld RF units) via <strong>Ivanti and Acronis imaging</strong>, standardizing builds and cutting rollout times.",
+        "Administered Windows Server environments (Active Directory, DNS, DHCP, GPOs) and Entra ID; automated user provisioning and reporting routines with custom PowerShell scripts.",
+        "Managed enterprise network printer fleet (HP/Lexmark), configuring print servers and driver rollouts; authored branch-wide IT SOPs and runbooks in Confluence.",
+        "Installed and administered Meraki SD-WAN appliances, configured VLANs, racked/patched switches, and assisted with Cisco networking and VoIP administration.",
+        "Conducted industrial site visits adhering to safety/PPE protocols to maintain branch and field office IT hardware and network infrastructure."
     ],
     clark: [
-        "Troubleshoot network topologies, Cisco routing/switching, and Microsoft AD forests in lab settings.",
-        "Maintain physical server racks, SAN storage arrays, and UPS equipment to ensure continuous lab operations."
+        "Troubleshot Cisco routing/switching hardware, Microsoft Active Directory forests, and Linux servers in an enterprise lab environment.",
+        "Executed physical rack maintenance, Cisco module replacements (HWICs, SMART-Serial), SAN hot-swapping, and UPS battery maintenance.",
+        "Mentored students in subnetting and network design while gaining hands-on AWS EC2 deployment experience."
     ],
     mojoe: [
-        "Diagnose and resolve performance bottlenecks on Linux/Windows client and server systems.",
-        "Manage client PC system rollouts, operating system configurations, and login scripts."
+        "Deployed and configured Windows desktop environments, executing automated login scripts and client system rollouts.",
+        "Administered local infrastructure, diagnosed OS/hardware bottlenecks, and conducted employee cybersecurity security awareness training."
     ]
 };
 
@@ -287,8 +292,9 @@ generateCV(
     "Western Pacific",
     "Desktop Support Analyst",
     [],
-    "Customer-focused IT support professional with 10 years of experience in endpoint administration, hardware troubleshooting, and enterprise user lifecycle management. Expert in Windows environments, Active Directory lifecycles, and client imaging. Specialized in providing reliable, frontline IT support in industrial and multi-site distribution settings.",
-    ["Desktop Support & Helpdesk", "Active Directory & GPOs", "Imaging & Deployment", "Hardware & Peripherals", "Windows Client/Server", "Ticketing & SLA Adherence", "Meraki SD-WAN & Network", "Customer Service Excellence"],
+    "Customer-focused Desktop Support Analyst with 10+ years of hands-on IT experience across corporate, distribution, and manufacturing/industrial environments. Proven track record managing user lifecycles and access controls across Active Directory, Entra ID (Azure AD), and Okta, standardizing system builds with network imaging tools, and resolving walkup, phone, and helpdesk tickets end-to-end. Adept at hardware diagnostics, peripheral and printer fleet management, warehouse device support (barcode/RF scanners, label printers), and virtualization / network troubleshooting (Proxmox VE, vSphere, Meraki SD-WAN), minimizing operational IT downtime while ensuring strict security and safety compliance.",
+    ["Desktop Support & Helpdesk", "Active Directory & Entra ID", "Imaging & Deployment", "Virtualization (Proxmox/vSphere)", "Warehouse & Peripherals", "Windows Client/Server", "Ticketing & SLA Adherence", "Meraki SD-WAN & Network"],
     westernPacificChanges
 );
+
 
