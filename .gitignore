@@ -25,6 +25,10 @@ data/offers/*
 data/upskill/
 reports/*.md
 !reports/.gitkeep
+reports/*.html
+jobs/*
+!jobs/.gitkeep
+!jobs/**/.gitkeep
 output/*
 !output/.gitkeep
 batch/logs/*
