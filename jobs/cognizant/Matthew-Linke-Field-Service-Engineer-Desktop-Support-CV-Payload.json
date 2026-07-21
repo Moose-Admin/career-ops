@@ -1,0 +1,126 @@
+{
+  "lang": "en",
+  "page_format": "letter",
+  "candidate": {
+    "name": "Matthew Linke",
+    "title": "Field Service Engineer - Desktop Support",
+    "phone": "714-745-9857",
+    "email": "mlinke@gmail.com",
+    "location": "Vancouver, WA",
+    "photo": ""
+  },
+  "sections": {
+    "summary": "Professional Summary",
+    "competencies": "Core Competencies",
+    "experience": "Work Experience",
+    "education": "Education",
+    "certifications": "Certifications",
+    "skills": "Technical Skills"
+  },
+  "summary": "Customer-focused Field Service Engineer and Desktop Support Specialist with 10+ years of hands-on IT experience across corporate office, field, and manufacturing environments. Specialized in mobile device fleet support, walkup and deskside assistance, and end-to-end asset lifecycle management. Currently supporting mobile and endpoint operations at Daimler Truck LLC's Portland headquarters, possessing direct domain expertise in Daimler systems, the IT Shop portal, and security profiles. Expert in ordering, provisioning, and setting up devices using iOS/macOS tools, MDM platforms, Active Directory, Entra ID, and Proxmox VE / vSphere virtualization.",
+  "competencies": [
+    "Field Service & Desktop Support",
+    "Walkup & Deskside End-User Support",
+    "Daimler Systems & IT Shop Portal",
+    "Mobile Device Support (iOS/macOS/Windows)",
+    "Identity & Access (AD, Entra ID, Okta)",
+    "Device Decommissioning & Retirement",
+    "Virtualization (Proxmox VE / vSphere)",
+    "ITSM Queue Management & SLAs"
+  ],
+  "experience": [
+    {
+      "company": "Daimler Truck LLC / Allied Digital",
+      "role": "Mobile Device Support iOS",
+      "location": "Portland, OR",
+      "dates": "May 2024 - Present",
+      "bullets": [
+        "Provide customer-first walkup, deskside, and remote support for corporate users, resolving mobile device, OS, and software issues under strict SLA targets.",
+        "Order, receive, and provision mobile device fleet inventory (iOS, macOS, and Windows) for corporate end-users, remote workers, and new hires.",
+        "Setup and configure client endpoints using enterprise macOS/iOS tools, configuration profiles, and MDM platforms (Intune, MobileIron, Ivanti).",
+        "Execute hardware decommissioning and device retirement processes, ensuring secure data wiping, asset de-registration, and resource reclamation.",
+        "Utilize Daimler systems and the internal IT Shop portal to manage asset lifecycles, assign hardware, and resolve ticket escalations under strict SLAs.",
+        "Develop and enhance user-facing setup guides in Confluence to streamline self-service deployments and remote enrollment."
+      ]
+    },
+    {
+      "company": "JH Kelly, LLC",
+      "role": "IT Support Specialist II",
+      "location": "Vancouver, WA",
+      "dates": "April 2019 - February 2024",
+      "bullets": [
+        "Managed high-volume walkup helpdesk operations, providing onsite desktop, laptop, and peripheral support via walk-ins and ServiceNow tickets.",
+        "Managed the lifecycle of desktop and mobile assets, from initial hardware ordering, provisioning, and Ivanti imaging to secure device retirement.",
+        "Administered Windows Server environments (Active Directory, DNS, DHCP, GPOs) and Entra ID (Azure AD); automated user provisioning routines with PowerShell.",
+        "Installed and administered Meraki SD-WAN devices and resolved local networking issues (IP addressing, DNS, DHCP, VLANs).",
+        "Setup, configured, and troubleshot Zoom/Teams conference rooms, A/V equipment, and Cisco VoIP infrastructure."
+      ]
+    },
+    {
+      "company": "Clark College",
+      "role": "Network / Microsoft Technology Lab Volunteer Technician",
+      "location": "Vancouver, WA",
+      "dates": "April 2017 - April 2019",
+      "bullets": [
+        "Troubleshot Cisco routing and switching hardware, Microsoft Active Directory forests, and Linux servers.",
+        "Diagnosed, replaced, and maintained Cisco physical hardware (HWICs, SMART-Serial, interfaces).",
+        "Performed rack and hardware maintenance including SAN hot-swapping and UPS battery replacement."
+      ]
+    },
+    {
+      "company": "MoJoe Enterprises LLC / Rock That Media LLC",
+      "role": "Desktop Support / IT Administrator",
+      "location": "Vancouver, WA",
+      "dates": "January 2016 - December 2017",
+      "bullets": [
+        "Executed login scripts, managed client system rollouts, and configured Windows desktop environments.",
+        "Investigated and diagnosed operating system and hardware performance issues.",
+        "Administered local systems infrastructure and trained staff on network security awareness."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Associates in Applied Technology: CISCO Technologies",
+      "org": "Clark College",
+      "year": "June 2023"
+    },
+    {
+      "title": "Associates in Applied Technology: Network Technologies",
+      "org": "Clark College",
+      "year": "June 2018"
+    },
+    {
+      "title": "Associates in Applied Technology: Microsoft Network Technology",
+      "org": "Clark College",
+      "year": "June 2018"
+    }
+  ],
+  "certifications": [
+    { "title": "Cisco Cybersecurity Essentials", "org": "Cisco", "year": "2022" },
+    { "title": "MTA Microsoft Security Essentials", "org": "Microsoft", "year": "2015" },
+    { "title": "MTA Microsoft Server Fundamentals", "org": "Microsoft", "year": "2015" },
+    { "title": "MTA Microsoft Networking Fundamentals", "org": "Microsoft", "year": "2015" },
+    { "title": "MTA Microsoft Windows OS Fundamentals", "org": "Microsoft", "year": "2015" },
+    { "title": "MTA Database Fundamentals", "org": "Microsoft", "year": "2016" },
+    { "title": "CompTIA A+", "org": "CompTIA", "year": "2009" }
+  ],
+  "skills": [
+    {
+      "category": "Troubleshooting & Field Support",
+      "items": ["Deskside & walkup support", "hardware break/fix", "device retirement & decommissioning", "printer configurations", "Daimler IT Shop portal", "ServiceNow", "peripheral fleet"]
+    },
+    {
+      "category": "Identity & Endpoint Management",
+      "items": ["Active Directory", "Entra ID (Azure AD)", "Okta", "Intune", "MobileIron MDM", "iOS/macOS deployment tools", "Ivanti / Acronis imaging"]
+    },
+    {
+      "category": "Networking & Virtualization",
+      "items": ["Cisco/Meraki SD-WAN", "Ubiquiti UniFi", "Proxmox VE", "VMware vSphere/ESXi", "Hyper-V", "DNS/DHCP", "VPN/IPSec", "Wireshark"]
+    },
+    {
+      "category": "Operating Systems",
+      "items": ["Windows 10/11", "Windows Server", "macOS", "Linux (RHEL/Ubuntu)", "iOS"]
+    }
+  ]
+}
