@@ -1,0 +1,551 @@
+��[
+  {
+    "id": "2033",
+    "company": "Clark County",
+    "role": "Desktop Administrator",
+    "url": "https://clarkcountywashington.wd1.myworkdayjobs.com/en-US/ClarkCountyJobs/job/Public-Service-Center/Desktop-Administrator_R004086",
+    "reportPath": "reports/004-clarkcounty-2026-05-24.md",
+    "source": "tracker"
+  },
+  {
+    "id": "2032",
+    "company": "Glean",
+    "role": "Product Manager, Agent Security & Governance",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694761005",
+    "reportPath": "reports/027-glean-pm-agent-security.md",
+    "source": "tracker"
+  },
+  {
+    "id": "2030",
+    "company": "Motus Recruiting",
+    "role": "System Administrator",
+    "url": "https://www.indeed.com/viewjob?jk=02b48e6587c695b1",
+    "reportPath": "reports/002-motus-2026-05-24.md",
+    "source": "tracker"
+  },
+  {
+    "id": "2027",
+    "company": "Washington County",
+    "role": "IT Systems Administrator II",
+    "url": "https://www.governmentjobs.com/careers/washingtoncounty/jobs/IT-Systems-Administrator-II",
+    "reportPath": "reports/001-washingtoncounty-2026-05-24.md",
+    "source": "tracker"
+  },
+  {
+    "id": "26",
+    "company": "JobDiva",
+    "role": "System Administrator 2",
+    "url": "https://www1.jobdiva.com/portal/?a=kyjdnwhe5q4tfdmk3haw3ytzphia6r00a0iwxxv4v7axikgs4w36xlanf4uxpvie#/jobs/32277915?jobtitle=System+Administrator+2",
+    "reportPath": "reports/001-jobdiva-sysadmin2.md",
+    "source": "tracker"
+  },
+  {
+    "id": "27",
+    "company": "CorSource",
+    "role": "Senior System Administrator",
+    "url": "https://www.linkedin.com/jobs/view/senior-sysadmin-corsource-vancouver",
+    "reportPath": "reports/007-corsource-vancouver-sysadmin.md",
+    "source": "tracker"
+  },
+  {
+    "id": "28",
+    "company": "KDInfotech",
+    "role": "System Administrator",
+    "url": "https://www.indeed.com/viewjob?jk=system-admin-kdinfotech-portland",
+    "reportPath": "reports/004-kdinfotech-sysadmin.md",
+    "source": "tracker"
+  },
+  {
+    "id": "29",
+    "company": "Unitus",
+    "role": "Systems Administrator",
+    "url": "https://www.indeed.com/viewjob?jk=sysadmin-unitus-tigard",
+    "reportPath": "reports/006-unitus-sysadmin.md",
+    "source": "tracker"
+  },
+  {
+    "id": "32",
+    "company": "Insight Global",
+    "role": "Field Network Engineer",
+    "url": "https://www.indeed.com/viewjob?jk=field-network-eng-insight-global",
+    "reportPath": "reports/008-insight-global-field-network-engineer.md",
+    "source": "tracker"
+  },
+  {
+    "id": "33",
+    "company": "Covenant Tech",
+    "role": "Implementation Engineer",
+    "url": "https://www.indeed.com/viewjob?jk=network-eng-covenant-tech",
+    "reportPath": "reports/009-covenant-tech-implementation-engineer.md",
+    "source": "tracker"
+  },
+  {
+    "id": "34",
+    "company": "VanderHouwen",
+    "role": "Senior Desktop Support",
+    "url": "https://www.indeed.com/viewjob?jk=senior-desktop-vanderhouwen",
+    "reportPath": "reports/010-vanderhouwen-senior-desktop-support.md",
+    "source": "tracker"
+  },
+  {
+    "id": "35",
+    "company": "Multnomah County",
+    "role": "Desktop Support Technician",
+    "url": "https://www.indeed.com/viewjob?jk=desktop-tech-multnomah-county",
+    "reportPath": "reports/011-multnomah-county-desktop-support.md",
+    "source": "tracker"
+  },
+  {
+    "id": "36",
+    "company": "Dynalectric",
+    "role": "Senior Desktop Specialist",
+    "url": "https://www.indeed.com/viewjob?jk=senior-desktop-dynalectric",
+    "reportPath": "reports/012-dynalectric-senior-desktop-support.md",
+    "source": "tracker"
+  },
+  {
+    "url": "https://www.indeed.com/viewjob?jk=6f6e52291254341b",
+    "source": "pipeline",
+    "line": "- [ ] https://www.indeed.com/viewjob?jk=6f6e52291254341b | Kelley Create | Systems Administrator\r"
+  },
+  {
+    "url": "https://www.indeed.com/viewjob?jk=a875881c6a2e2b4f",
+    "source": "pipeline",
+    "line": "- [ ] https://www.indeed.com/viewjob?jk=a875881c6a2e2b4f | Convergence Networks | IT Systems Administrator\r"
+  },
+  {
+    "url": "https://www.indeed.com/viewjob?jk=3d5c6b7a8e9f0123",
+    "source": "pipeline",
+    "line": "- [ ] https://www.indeed.com/viewjob?jk=3d5c6b7a8e9f0123 | DoveLewis | IT Systems Administrator\r"
+  },
+  {
+    "url": "https://www.indeed.com/viewjob?jk=b9a8c7d6e5f4g3h2",
+    "source": "pipeline",
+    "line": "- [ ] https://www.indeed.com/viewjob?jk=b9a8c7d6e5f4g3h2 | Routeware, Inc. | IT Technician 1\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694761005",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694761005 | Glean | Product Manager, Agent Security & Governance\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694764005",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694764005 | Glean | Product Manager, AI Quality\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694771005",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694771005 | Glean | Tech Lead Manager, Agentic Runtime\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/arizeai/jobs/5993755004",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5993755004 | Arize AI | AI Solutions Engineer, East\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/arizeai/jobs/5993317004",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5993317004 | Arize AI | Forward Deployed Engineer, APJ\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/runpod/jobs/5191760008",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/runpod/jobs/5191760008 | RunPod | Developer Relations Lead, AI Infrastructure and Community\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/runpod/jobs/5115139008",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/runpod/jobs/5115139008 | RunPod | Director, Cloud Marketplace and AI Infrastructure Partnerships\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/decagon/d53738b5-ca10-4283-be5a-3937aa9e7c59",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/decagon/d53738b5-ca10-4283-be5a-3937aa9e7c59 | Decagon | Senior Agent Product Manager - German Speaking\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/decagon/123e4aae-9550-4e69-be08-6789e09db07e",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/decagon/123e4aae-9550-4e69-be08-6789e09db07e | Decagon | Senior Agent Product Manager\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/decagon/270e066f-b327-4774-9085-744f4aabde0c",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/decagon/270e066f-b327-4774-9085-744f4aabde0c | Decagon | Customer Engineer, Agent Builder\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/decagon/f45c6d16-7a06-4a3f-ade7-c915698aba75",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/decagon/f45c6d16-7a06-4a3f-ade7-c915698aba75 | Decagon | Agent Success Manager\r"
+  },
+  {
+    "url": "https://boomi.com/boomi-jobs/?gh_jid=5779584004",
+    "source": "pipeline",
+    "line": "- [ ] https://boomi.com/boomi-jobs/?gh_jid=5779584004 | Boomi | Senior Data Engineer - Agentic AI Engineering\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0 | Cohere | Forward Deployed Engineer, Agentic Platform (UK/Europe)    \r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/langchain/60d3bd4f-e80f-45fb-9801-725d8b681d54",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/langchain/60d3bd4f-e80f-45fb-9801-725d8b681d54 | LangChain | Deployed Engineer (Seattle)\r"
+  },
+  {
+    "url": "https://jobs.lever.co/mistral/3ec6fd88-fc86-4c2c-bb5d-0c66876ba62d",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.lever.co/mistral/3ec6fd88-fc86-4c2c-bb5d-0c66876ba62d | Mistral AI | AI Deployment Strategist, Defence - Singapore\r"
+  },
+  {
+    "url": "https://jobs.lever.co/mistral/1fe045c3-40c3-4d6c-ad4a-89145f28b9fa",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.lever.co/mistral/1fe045c3-40c3-4d6c-ad4a-89145f28b9fa | Mistral AI | AI Deployment Strategist, Public Sector - Singapore      \r"
+  },
+  {
+    "url": "https://jobs.lever.co/palantir/54530b3f-7446-4600-aef3-bfeb47101830",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.lever.co/palantir/54530b3f-7446-4600-aef3-bfeb47101830 | Palantir | Hacking for Health - UK Summer Bootcamp\r"
+  },
+  {
+    "url": "https://getyourguide.careers/jobs/7903243?gh_jid=7903243",
+    "source": "pipeline",
+    "line": "- [ ] https://getyourguide.careers/jobs/7903243?gh_jid=7903243 | GetYourGuide | Senior Decision Scientist, Ranking\r"
+  },
+  {
+    "url": "https://n26.com/en-eu/careers/positions/7704615?gh_jid=7704615",
+    "source": "pipeline",
+    "line": "- [ ] https://n26.com/en-eu/careers/positions/7704615?gh_jid=7704615 | N26 | Director of Marketing [Paid]\r"
+  },
+  {
+    "url": "https://careers.hellofresh.com/global/en/job/7913341?gh_jid=7913341",
+    "source": "pipeline",
+    "line": "- [ ] https://careers.hellofresh.com/global/en/job/7913341?gh_jid=7913341 | HelloFresh | Senior Regional Director, Fulfillment Operations        \r"
+  },
+  {
+    "url": "https://careers.hellofresh.com/global/en/job/7908866?gh_jid=7908866",
+    "source": "pipeline",
+    "line": "- [ ] https://careers.hellofresh.com/global/en/job/7908866?gh_jid=7908866 | HelloFresh | Supply Chain Development Planner\r"
+  },
+  {
+    "url": "https://sumup.com/careers/positions/8118923002?gh_jid=8118923002",
+    "source": "pipeline",
+    "line": "- [ ] https://sumup.com/careers/positions/8118923002?gh_jid=8118923002 | SumUp | Commercial(e) Terrain Confirm%�^%�%�,%# (H/F) %�,%�%����,%�%����<%� Lille et sa m%�^%�%�,%#tropole  CDI\r"
+  },
+  {
+    "url": "https://wayve.firststage.co/jobs?gh_jid=8545690002",
+    "source": "pipeline",
+    "line": "- [ ] https://wayve.firststage.co/jobs?gh_jid=8545690002 | Wayve | Customer Integration Engineer\r"
+  },
+  {
+    "url": "https://wayve.firststage.co/jobs?gh_jid=8542420002",
+    "source": "pipeline",
+    "line": "- [ ] https://wayve.firststage.co/jobs?gh_jid=8542420002 | Wayve | Product Manager - AI Driver\r"
+  },
+  {
+    "url": "https://wayve.firststage.co/jobs?gh_jid=8545642002",
+    "source": "pipeline",
+    "line": "- [ ] https://wayve.firststage.co/jobs?gh_jid=8545642002 | Wayve | Supply Chain Program Manager\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/photoroom/21d7187d-9d43-4d19-8580-13bf6513f1c0",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/photoroom/21d7187d-9d43-4d19-8580-13bf6513f1c0 | Photoroom | Customer Support Agent (Freelance/Part time)\r"
+  },
+  {
+    "url": "https://jobs.lever.co/pigment/39662985-9160-45be-8363-352c69edeeef",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.lever.co/pigment/39662985-9160-45be-8363-352c69edeeef | Pigment | Senior GenAI Engineer\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/synthesia/56fe08af-6704-4b1f-a157-00561e4c5991",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/synthesia/56fe08af-6704-4b1f-a157-00561e4c5991 | Synthesia | Solutions Consultant (German Speaking)\r"
+  },
+  {
+    "url": "https://jobs.lever.co/spotify/d786c214-f6d8-4df6-b6e1-58d2e1e73a4b",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.lever.co/spotify/d786c214-f6d8-4df6-b6e1-58d2e1e73a4b | Spotify | Executive Assistant - Government Affairs\r"
+  },
+  {
+    "url": "https://jobs.lever.co/qonto/ee6fa62c-4009-4393-85fb-b8767f0c3999",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.lever.co/qonto/ee6fa62c-4009-4393-85fb-b8767f0c3999 | Qonto | Events Manager Spain\r"
+  },
+  {
+    "url": "https://jobs.lever.co/qonto/4aff341d-3732-418f-b6fa-84e36c1e7979",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.lever.co/qonto/4aff341d-3732-418f-b6fa-84e36c1e7979 | Qonto | Senior Product Manager - Accounting Domain - French speaking %�,%�%%�,%U%%����,%�%�,%�%�,%�%%�,%U%%����,%�%�,%V%\r"
+  },
+  {
+    "url": "https://jobs.lever.co/qonto/feadc191-e77b-49db-af62-6440e7a42d12",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.lever.co/qonto/feadc191-e77b-49db-af62-6440e7a42d12 | Qonto | Senior Product Manager - Connect\r"
+  },
+  {
+    "url": "https://jobs.lever.co/qonto/ccebc25a-cc07-458e-bf9b-d36c33de441c",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.lever.co/qonto/ccebc25a-cc07-458e-bf9b-d36c33de441c | Qonto | Senior Product Manager - KYC/KYB\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7703852003?gh_jid=7703852003",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/celonis/jobs/7703852003?gh_jid=7703852003 | Celonis | Global Events Working Student\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7731772003?gh_jid=7731772003",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/celonis/jobs/7731772003?gh_jid=7731772003 | Celonis | Senior Integration & Automation Engineer\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7686306003?gh_jid=7686306003",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/celonis/jobs/7686306003?gh_jid=7686306003 | Celonis | Working Student Learning Experience Design\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7692052003?gh_jid=7692052003",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/celonis/jobs/7692052003?gh_jid=7692052003 | Celonis | Working Student Tax\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7691023003?gh_jid=7691023003",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/celonis/jobs/7691023003?gh_jid=7691023003 | Celonis | Working Student Trust (Third-Party Risk Management)\r"
+  },
+  {
+    "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4866271101",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4866271101 | Parloa |  Senior Forward Deployed Engineer - Partner Success - US\r"
+  },
+  {
+    "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4865339101",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4865339101 | Parloa | Working Student Billing & Collections Specialist\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/intercom/jobs/7912543",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/intercom/jobs/7912543 | Intercom | Senior Account Manager (Mid-Market) - French Speaking\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/intercom/jobs/7912544",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/intercom/jobs/7912544 | Intercom | Senior Account Manager (Mid-Market) - German Speaking\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/intercom/jobs/7917235",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/intercom/jobs/7917235 | Intercom | Staff AI Designer\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4661886005",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4661886005 | Glean | AI Success Manager, Central\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4661879005",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4661879005 | Glean | AI Success Manager, East\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4695059005",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4695059005 | Glean | AI Success Manager, West\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4695579005",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4695579005 | Glean | Manager, AI Outcomes\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4696058005",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4696058005 | Glean | Product Designer, AI Products\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4657520005",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4657520005 | Glean | Senior Integrated Campaign Manager\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4695206005",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4695206005 | Glean | Software Engineer, AI Infrastructure\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/airtable/jobs/8536588002",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/airtable/jobs/8536588002 | Airtable | GTM Engineer\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/elevenlabs/1285b935-1398-4116-8576-70a58896faa8",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/elevenlabs/1285b935-1398-4116-8576-70a58896faa8 | ElevenLabs | Enterprise Solutions Engineer - Middle East        \r"
+  },
+  {
+    "url": "https://boomi.com/boomi-jobs/?gh_jid=5840596004",
+    "source": "pipeline",
+    "line": "- [ ] https://boomi.com/boomi-jobs/?gh_jid=5840596004 | Boomi |  Dutch Speaking Sales Development Representative\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/langchain/d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/langchain/d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93 | LangChain | Principal Software Engineer, AI Observability & Evals Platform\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893 | n8n | AI Product Builder\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/n8n/b736bd76-4cf6-4214-8633-2ff032a2bc03",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/n8n/b736bd76-4cf6-4214-8633-2ff032a2bc03 | n8n | Customer Success Manager - German Speaking (EMEA)\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/klue/83b43f2e-1793-49f6-8928-2efc5aca3b89",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/klue/83b43f2e-1793-49f6-8928-2efc5aca3b89 | Klue | Senior Software Engineer, Agents\r"
+  },
+  {
+    "url": "https://helsing.ai/jobs/4865991101?gh_jid=4865991101",
+    "source": "pipeline",
+    "line": "- [ ] https://helsing.ai/jobs/4865991101?gh_jid=4865991101 | Helsing | Technical Programme Manager - Air\r"
+  },
+  {
+    "url": "https://getyourguide.careers/jobs/7865219?gh_jid=7865219",
+    "source": "pipeline",
+    "line": "- [ ] https://getyourguide.careers/jobs/7865219?gh_jid=7865219 | GetYourGuide | Senior Product Manager, Discovery (B2C)\r"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7713599003?gh_jid=7713599003",
+    "source": "pipeline",
+    "line": "- [ ] https://job-boards.greenhouse.io/celonis/jobs/7713599003?gh_jid=7713599003 | Celonis | Working Student Applied AI Brand Solutions\r"
+  },
+  {
+    "url": "https://n26.com/en-eu/careers/positions/7530714?gh_jid=7530714",
+    "source": "pipeline",
+    "line": "- [ ] https://n26.com/en-eu/careers/positions/7530714?gh_jid=7530714 | N26 | Banking Operations Associate - Excellence and Readiness\r"
+  },
+  {
+    "url": "https://careers.hellofresh.com/global/en/job/7931060?gh_jid=7931060",
+    "source": "pipeline",
+    "line": "- [ ] https://careers.hellofresh.com/global/en/job/7931060?gh_jid=7931060 | HelloFresh | Maintenance Technician I\r"
+  },
+  {
+    "url": "https://careers.hellofresh.com/global/en/job/7818358?gh_jid=7818358",
+    "source": "pipeline",
+    "line": "- [ ] https://careers.hellofresh.com/global/en/job/7818358?gh_jid=7818358 | HelloFresh | Sustainability Manager\r"
+  },
+  {
+    "url": "https://sumup.com/careers/positions/8530960002?gh_jid=8530960002",
+    "source": "pipeline",
+    "line": "- [ ] https://sumup.com/careers/positions/8530960002?gh_jid=8530960002 | SumUp | Engineering Manager - Edge AI\r"
+  },
+  {
+    "url": "https://sumup.com/careers/positions/8551828002?gh_jid=8551828002",
+    "source": "pipeline",
+    "line": "- [ ] https://sumup.com/careers/positions/8551828002?gh_jid=8551828002 | SumUp | Senior AML Investigator\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/decagon/230ad153-85be-4f7b-a368-5bad59e513e2",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/decagon/230ad153-85be-4f7b-a368-5bad59e513e2 | Decagon | Customer Engineer, Agent Builder\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/lakera.ai/55dd0a97-cd7a-441c-95b4-8f55f63ed29a",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/lakera.ai/55dd0a97-cd7a-441c-95b4-8f55f63ed29a | Lakera | Solutions Engineer (Dallas, Texas)\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/lakera.ai/da6a7e0b-39bc-4bec-aafe-10669baf2434",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/lakera.ai/da6a7e0b-39bc-4bec-aafe-10669baf2434 | Lakera | Solutions Engineer (New York City, New York)\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/lakera.ai/4513f73f-dcf9-4739-bf4d-a30889964199",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/lakera.ai/4513f73f-dcf9-4739-bf4d-a30889964199 | Lakera | Solutions Engineer (Tel-Aviv, Israel)\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/lakera.ai/dcaef0d1-fdcb-4299-9f3e-1aba87dc33b2",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/lakera.ai/dcaef0d1-fdcb-4299-9f3e-1aba87dc33b2 | Lakera | Solutions Engineer (Boston, Massachusetts)\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/lakera.ai/12b50d6e-3977-45e7-975a-6a72ebb1312d",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/lakera.ai/12b50d6e-3977-45e7-975a-6a72ebb1312d | Lakera | Solutions Engineer (Washington D.C.)\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/lakera.ai/f476a0ea-dfda-459e-a90d-e28bc9c6a2a1",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/lakera.ai/f476a0ea-dfda-459e-a90d-e28bc9c6a2a1 | Lakera | Solutions Engineer (Philadelphia, Pennsylvania)\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/lakera.ai/5e6ad31b-5597-4106-a864-2db3d8ad7f91",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/lakera.ai/5e6ad31b-5597-4106-a864-2db3d8ad7f91 | Lakera | Solutions Engineer (Miami, Florida)\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/lakera.ai/b286cb02-de27-4f6b-866a-2262dfcacacd",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/lakera.ai/b286cb02-de27-4f6b-866a-2262dfcacacd | Lakera | Solutions Engineer (Jersey City, New Jersey)\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/lakera.ai/24ddfe7e-f7f8-41f9-b3c9-26f59f636c7e",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/lakera.ai/24ddfe7e-f7f8-41f9-b3c9-26f59f636c7e | Lakera | Solutions Engineer (Pittsburgh, Pennsylvania)\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/lakera.ai/f258a3ea-273d-4c07-b8f1-e01134149456",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/lakera.ai/f258a3ea-273d-4c07-b8f1-e01134149456 | Lakera | AI Sales Specialist, Check Point AI Security (San Francisco)\r"
+  },
+  {
+    "url": "https://wayve.firststage.co/jobs?gh_jid=8545371002",
+    "source": "pipeline",
+    "line": "- [ ] https://wayve.firststage.co/jobs?gh_jid=8545371002 | Wayve | Staff ML Performance Engineer (Inference Optimisation)\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/causaly/3605a468-8350-41dd-bbb9-dce11993616f",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/causaly/3605a468-8350-41dd-bbb9-dce11993616f | Causaly | Senior Science Liaison, EMEA\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/faculty/e3f544c9-e520-4799-ab4d-c0b3cb050760",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/faculty/e3f544c9-e520-4799-ab4d-c0b3cb050760 | Faculty | Lead Forward Deployed Engineer\r"
+  },
+  {
+    "url": "https://jobs.lever.co/pigment/874e5c44-7239-475d-8eea-97ba9168875c",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.lever.co/pigment/874e5c44-7239-475d-8eea-97ba9168875c | Pigment | Supply Chain Solution Consultant\r"
+  },
+  {
+    "url": "https://jobs.lever.co/spotify/1849318a-d2e4-48a6-adad-68f8a4518f7d",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.lever.co/spotify/1849318a-d2e4-48a6-adad-68f8a4518f7d | Spotify | Senior Manager, EU Government Affairs\r"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/supabase/14a99b8b-444b-4d28-b4fd-6fa8e71bcb4e",
+    "source": "pipeline",
+    "line": "- [ ] https://jobs.ashbyhq.com/supabase/14a99b8b-444b-4d28-b4fd-6fa8e71bcb4e | Supabase | AI Tooling Engineer\r"
+  },
+  {
+    "url": "https://www.portofportland.com/Careers",
+    "source": "pipeline",
+    "line": "- [ ] https://www.portofportland.com/Careers | Port of Portland | Senior Network Security Architect\r"
+  },
+  {
+    "url": "https://creativesolutions.com/careers",
+    "source": "pipeline",
+    "line": "- [ ] https://creativesolutions.com/careers | Creative Solutions | System Administrator 2\r"
+  },
+  {
+    "url": "https://www.energysolutions.com/careers/",
+    "source": "pipeline",
+    "line": "- [ ] https://www.energysolutions.com/careers/ | Energy Solutions | Systems Administration Manager\r"
+  }
+]

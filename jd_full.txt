@@ -1,0 +1,248 @@
+Skip to main content
+Sign In
+Search for Jobs
+Desktop Administrator page is loaded
+Desktop Administrator
+Apply
+locations
+Public Service Center
+time type
+Full time
+posted on
+Posted 5 Days Ago
+job requisition id
+R004086
+Job Summary 
+Clark County IT is looking for a diligent, innovative, analytical and experienced Desktop Administrator who views success as the ability to serve others. This hire is dedicated to providing the highest quality service to our employees and the community. We want team members to learn, grow and build a future with us. 
+
+A versatile individual who is interested in helping support County operations, based on industry best practices. All of us in IT understand that our job may require us to be available 24/7 to provide the high level of customer service our customers expect. 
+
+However, at Clark County we provide this support while maintaining a healthy work/life balance. We'll support your growth and reward your commitment with training in the latest tools, extraordinary benefits and opportunities for professional advancement.
+
+The Desktop Administration role will also trouble shoot problem areas (in person, remote connections or by phone) in a timely accurate fashion and provide end-user assistance where required. Supporting mid-level functions for the Help Desk team and other areas within the Client Services team. Focused in both Tier 1 and Tier 2 activities.
+
+This position has the option of a remote/hybrid work schedule possibility. However, the candidate selected must reside in OR or WA.  No Exceptions.
+
+Qualifications
+
+Education and Experience:
+
+Bachelor’s degree or equivalent experience in information technology, computer science or a related field or any combination of training and experience that would provide the required knowledge, skills and abilities will be considered.  Three years of progressive responsibility in a professional or technical discipline in one or more of the above described IT roles.
+
+-  Bachelor’s degree in computer science or a related field OR a minimum three years of experience working as a desktop admin. The degree must have been conferred by an institution of higher education and have National Recognition of Accrediting Agencies by the U.S. Secretary of Education, and official transcripts may be required at the time of hire.
+
+
+PREFERRED QUALIFICATIONS:
+-  5 years or greater experience as a Desktop Administrator.
+
+-  CompTIA A+; or
+
+-  MCSA Windows 11; or
+
+-  MCSE Microsoft Certified Solutions Expert (MCSE); or equivalent experience
+
+-  CISCO VOIP Phone Certificates; or equivalent experience
+
+-  Knowledge of current principles in PC environments and information technology systems to include: Windows 11 O/S; Windows networking principles; Active Directory, DNS, DHCP; Group Policy management; command line execution; internal and external storage devices; productivity software application suites; Jabber, Office 365 Product Suite, MS Teams, Outlook; desktop and file management principles; trouble shooting techniques; ticketing systems; asset and inventory management systems; imaging/provisioning systems; various computing devices including desktops, laptops, tablets, handhelds/mobiles; and endpoint management systems.
+
+-  A valid motor vehicle operator’s license may be required depending on the job functions.
+
+-  Employment is contingent upon passing a security background investigation.
+
+
+THE INDIVIDUAL SHOULD HAVE A DEMONSTRABLE UNDERSTANDING OF:
+
+
+-  Superb interpersonal communication (written/verbal).
+
+-  Ability to consistently handle and follow through with multiple projects, tasks and business processes within expected timeframes. 
+
+-  Highly self-motivated and directed, with keen attention to detail and accuracy.
+
+-  Able to reliably prioritize tasks in pressure situations.
+
+-  Strong customer service orientation with validated analytical and problem-solving abilities.
+
+-  Self-starter, self-motivated, work autonomously and in group/project settings
+
+-  Researching sophisticated technical issues through peer review, user groups, forums and other sources.
+
+-  Client-based Computers (PCs), attached peripherals
+
+-  Windows/Apple/Chrome O/S functions and connectivity
+
+-  Office 365 Product Suite
+
+-  Client/server applications and deployment strategies
+
+-  Wired/wireless network, and networking protocols
+
+-  VOIP phone configuration
+
+-  Desktop environment security and standard processes including Multi-Factor Authentication.
+
+-  Previous public sector experience
+
+-  All combinations of education, experience, and training that demonstrate the above will be considered. 
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+
+Selection Process:
+
+Resumes and other documents must be attached together in the 'Resume Upload' section of the application.  Multiple files are allowed, but all applicant attachments must be uploaded simultaneously, as there is no way to edit or append uploaded materials after submitting the application. 
+
+Application Review (Pass/ Fail) - An online application is required.  Attaching a resume does not substitute for a completed application; incomplete applications will not pass the application review.  Candidates deemed most qualified will be invited to participate in the remainder of the selection process. 
+
+Practical Exam (Pass/Fail) - This recruitment may require a practical exam which will be job related and may include, but not limited to, the qualifications outlined in the job announcement.  Candidates deemed most qualified will be invited to participate in the remainder of the selection process. 
+
+Oral Interview - The interview will be job related and may include, not limited to, the qualifications outlined in the job announcement.  Top candidate(s) will continue in the process. 
+
+Employment references will be conducted for the final candidates and may include verification of education.
+
+Examples of Duties
+
+Delivers County wide technical proficiency in the following areas:
+
+Problem Resolution, Incident and Customer Service Management –
+
+Solve problems and incidents through standard concepts and practices to satisfy the customers need, ensuring internal and external control requirements are considered.
+
+Communicate upward as needed to ensure the appropriate level of awareness.
+
+Availability, Monitoring and Continuity Management – 
+
+Test for system continuity and monitor system or application functions and performance.
+
+Implement routines to capture metrics and report to IT management on defined key metrics on weekly base.
+
+Participate in the development of processes and procedures, providing expertise in their specific support areas.
+
+Participate in peer technical review.
+
+Acquire and Maintain Information Technology –
+
+Procure technology solutions to satisfy business and IT requirements, using critical elements from the business and the Clark County IT technology plan.
+
+Replace hardware and software according the Clark County IT technology plan.
+
+Participate in overseeing small technology projects, which have a limited scope.
+
+Additional responsibilities may include – 
+
+Database Administrator:  Database administration.
+
+Desktop Administrator:  (Virtual) desktop and laptop support, Service desk, network support, client software support and training.
+
+DISC:  Support specific IT related applications and services.
+
+Network Administrator:  Local and wide area network support, remote access support, wireless support, telecommunications support.
+
+Programmer Analyst:  Application programming, web design, systems development and integration, business application support.
+
+Project/Programs:  Manage or coordinate small technology projects.  Aid in the coordination of activities for project team members.
+
+Quality Assurance:  Develops, publishes, and implements test plans.  Follows quality assurance standards.
+
+Security:  Implement Security principals in several technical areas.
+
+System Administrator:  System, storage and backup support.  Email and other infrastructure application related support.
+
+Team Leader Responsibilities:  Develop timelines for projects and delegate the individual components to members of the team, including themselves.  Provide information to a supervisor or manager on the team’s progress in meetings or through regular email contact or reports.
+
+Perform other duties as assigned.
+
+Salary Grade
+IT Guild.304
+
+Salary Range
+$41.64 - $58.29- per hour
+
+
+
+
+Close Date
+Open Until Filled
+Recruiter
+Irene Catherine Chrest
+
+Email:
+
+Irene.Chrest@clark.wa.gov
+
+Equal Opportunity Employer
+
+Clark County is an equal opportunity employer committed to providing equal opportunity in employment, access, and delivery of all county services. Clark County’s Equal Employment Opportunity Plan is available at http://www.clark.wa.gov/human-resources/documents.
+
+Employee Benefits and additional compensation
+
+Clark County provides regular full-time and part-time employees with a comprehensive benefits package which includes medical, vision and dental insurance, paid leave, flexible spending accounts, life insurance and long-term disability, retirement, and deferred compensation.  Some types of employees in some positions and bargaining units might have different benefits and additional compensation.  More specific benefit information for the different bargaining units can be found at https://clark.wa.gov/human-resources/employee-benefits. Also please refer to the specific bargaining unit contract for additional compensation at https://clark.wa.gov/human-resources/documents.
+
+
+
+
+Retirement Information
+
+All Clark County employees must participate in a WASHINGTON STATE RETIREMENT SYSTEM PLAN (PERS, PSERS or LEOFF).Employee contributions begin the first day of work. Current contribution rates vary by plan but could range from 5% to 15% of gross pay, depending on the plan choice. 
+ 
+
+For additional information, check out the Department of Retirement Systems' web site here: http://www.drs.wa.gov/
+
+
+
+
+
+
+
+
+
+
+If you are in need of ADA/Section 504 assistance for accommodations, please contact Human Resources at (564) 397-2456; Relay (800) 833-6388.
+
+About Clark County
+
+With its great natural beauty, Clark County, Washington, always has attracted people and businesses. We welcome those who visit and settle here, providing fresh perspectives, growing diversity and vibrant energy.
+
+
+
+
+Our forward-looking community is framed by the scenic Cascade Range to the east and the majestic Columbia River to the south and west. The area is a picturesque place to work, play, and live.
+
+
+
+
+Named for Captain William Clark of Lewis and Clark Expedition fame, our county is one of the fastest growing regions in Washington state and the Portland, Oregon, metropolitan area. Today, more than 467,000 people call Clark County home. 
+
+
+
+
+Clark County government works to enhance the quality of life for all of our diverse community by providing services with integrity, openness and accountability. We are one of the county's largest employers, providing a wide range of rewarding careers for about 1,570 people.
+
+
+Read More
+Screening Process
+
+Candidates will be evaluated based on the content of their applications and those deemed most qualified will be invited to participate in the remainder of the selection process.
+
+
+
+
+Some recruitments may require the following:
+
+Assessment, Cover Letter, Practical Exam, Evidence of a valid driver’s license, Criminal Background Check or other requirements.
+
+
+
+
+Oral Interviews are conducted with a panel of interviewers. If you are selected for an interview you will be contacted by the hiring department.
+
+
+
+
+Employment References may be conducted for the final candidates, including verification of education.
+
+Read More
+
+You can get more information about job descriptions, pay schedule and employee benefits on the Clark County Human Resources website at www.clark.wa.gov/human-resources. 
+
+Follow Us
+© 2026 Workday, Inc. All rights reserved.
