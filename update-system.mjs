@@ -135,6 +135,7 @@ const SYSTEM_PATHS = [
   'archive-posting.mjs',
   'application-answers.mjs',
   'generate-cover-letter.mjs',
+  'generate_cvs.mjs',
   'merge-tracker.mjs',
   'tracker-links.mjs',
   'tracker.mjs',
