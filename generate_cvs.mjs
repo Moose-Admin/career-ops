@@ -12,13 +12,18 @@ function generateCV(company, role, keywords, summary, competencies, jobSpecificC
     html = html.replace(/{{NAME}}/g, "Matthew Linke");
     html = html.replace(/{{PHONE}}/g, "714-745-9857");
     html = html.replace(/{{EMAIL}}/g, "mlinke@gmail.com");
-    html = html.replace(/{{LINKEDIN_URL}}/g, "https://linkedin.com/in/janesmith");
-    html = html.replace(/{{LINKEDIN_DISPLAY}}/g, "linkedin.com/in/janesmith");
-    html = html.replace(/{{PORTFOLIO_URL}}/g, "https://janesmith.dev");
-    html = html.replace(/{{PORTFOLIO_DISPLAY}}/g, "janesmith.dev");
     html = html.replace(/{{LOCATION}}/g, "Vancouver, WA");
     html = html.replace(/{{LANG}}/g, "en");
     html = html.replace(/{{PAGE_WIDTH}}/g, "8.5in");
+
+    const contactRow = `<div class="contact-row">
+      <a href="tel:714-745-9857">714-745-9857</a>
+      <span class="separator">|</span>
+      <a href="mailto:mlinke@gmail.com">mlinke@gmail.com</a>
+      <span class="separator">|</span>
+      <span>Vancouver, WA</span>
+    </div>`;
+    html = html.replace(/<div class="contact-row">[\s\S]*?<\/div>/, contactRow);
 
     // Sections
     html = html.replace(/{{SECTION_SUMMARY}}/g, "Professional Summary");
