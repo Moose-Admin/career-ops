@@ -21,6 +21,8 @@ function generateCV(company, role, keywords, summary, competencies, jobSpecificC
       <span class="separator">|</span>
       <a href="mailto:mlinke@gmail.com">mlinke@gmail.com</a>
       <span class="separator">|</span>
+      <a href="https://linkedin.com/in/matthewlinke">linkedin.com/in/matthewlinke</a>
+      <span class="separator">|</span>
       <span>Vancouver, WA</span>
     </div>`;
     html = html.replace(/<div class="contact-row">[\s\S]*?<\/div>/, contactRow);

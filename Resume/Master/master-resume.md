@@ -3,7 +3,7 @@ Last Updated: 2026-05-09
 
 ## CONTACT INFORMATION
 Vancouver, WA | 714-745-9857 | mlinke@gmail.com
-LinkedIn: linkedin.com/in/mlinke | GitHub: github.com/mlinke
+LinkedIn: linkedin.com/in/matthewlinke | GitHub: github.com/mlinke
 
 ---
 
